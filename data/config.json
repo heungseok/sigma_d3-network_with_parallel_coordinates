@@ -1,0 +1,54 @@
+{
+  "type": "network",
+  "version": "1.0",
+  
+  "data": "./data/mooc_course_network.json",
+  "logo": {
+    "text": "edX",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "edX Courses Network",
+    "more": "Network Visualization for MOOC Courses",
+    "intro": "Data Visualization"
+  },
+  "legend": {
+    "edgeLabel": "Relationships",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Course"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": "Modularity Class",
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.5,
+      "maxNodeSize": 10,
+      "maxEdgeSize": 1,
+      "minNodeSize": 0.5
+    },
+    "drawingProperties": {
+      "labelThreshold": 8,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 15,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}

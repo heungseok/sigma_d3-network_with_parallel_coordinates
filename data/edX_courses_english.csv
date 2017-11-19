@@ -1,0 +1,781 @@
+node_id,title,subject,published_date,price,level,realSchool,school,Page Rank,community,eigenvector centrality,closness centrality,betweeness centrality,weighted degree,degree,clustering coefficient
+n744,"Data, Analytics and Learning",Data Analysis & Statistics,06/02/2014,Free,Introductory,UTArlington,Others,0.00362301,7,0.739854052,0.438348416,1,89,77,0.34962406
+n469,Dynamics and Control,Engineering,01/19/2016,1~50,Introductory,UPValencia,UPValencia,0.002959936,11,0.209836524,0.423034934,0.650418853,57,55,0.254545455
+n202,Explore Statistics with R,Data Analysis & Statistics,05/22/2015,Free,Introductory,KI,KI,0.003701319,7,1,0.440591245,0.611435204,99,86,0.40875513
+n570,Force and Motion: Pedagogical Content Knowledge for Teaching Physics,Education & Teacher Training,09/04/2015,Closed,Advanced,BU,BU,0.00242347,8,0.147702376,0.394803872,0.460940739,49,43,0.330011074
+n409,Introduction to Systems Biology,Biology & Life Sciences,01/05/2016,1~50,Introductory,IEEE,IEEE,0.003139779,11,0.386724152,0.417789757,0.458485724,73,68,0.335820896
+n56,Enabling Technologies for Data Science and Analytics: The Internet of Things,Data Analysis & Statistics,04/06/2016,101~200,Introductory,Columbia,Columbia,0.002591151,7,0.663040548,0.423728814,0.432593413,55,55,0.573063973
+n411,College Algebra and Problem Solving,Math,04/17/2015,1~50,Introductory,ASU,ASU,0.00246214,8,0.159917688,0.395812053,0.430414621,47,44,0.239957717
+n128,Management Accounting,Business & Management,03/31/2016,51~100,Intermediate,ACCA,ACCA,0.002718134,6,0.253877481,0.414438503,0.423106388,63,53,0.283744557
+n531,Effective Teaching Strategies for Biology,Biology & Life Sciences,11/23/2015,Closed,Intermediate,Trinity,Others,0.002204801,8,0.131350013,0.403645833,0.410909486,40,38,0.241820768
+n98,Hospitality and Tourism in China: A Global Perspective,Business & Management,12/08/2015,1~50,Introductory,HKPolyU,HKPolyU,0.002524053,15,0.171302502,0.389643037,0.392719366,47,45,0.296969697
+n626,"Relics of Chinese History - Part 3: Writing System, Rites and Music",Art & Culture,08/19/2015,1~50,Introductory,Tsinghua,Tsinghua,0.002705055,15,0.083026618,0.382905138,0.383047308,50,44,0.243128964
+n343,Essential Human Biology: Cells and Tissues,Biology & Life Sciences,03/02/2016,1~50,Introductory,Adelaide,Adelaide,0.002869071,0,0.399087303,0.408755274,0.382853935,65,57,0.434837093
+n145,"Technological, Social, and Sustainable Systems",Engineering,01/20/2016,1~50,Introductory,ASU,ASU,0.002622117,11,0.226944538,0.423960613,0.378407815,55,51,0.277647059
+n658,Big-Data in Education,Data Analysis & Statistics,05/22/2015,Closed,Intermediate,TeachersCollege,Others,0.003028396,7,0.722662021,0.434173669,0.374989831,78,67,0.428312981
+n741,Entrepreneurship and Healthcare in Emerging Economies,Business & Management,05/20/2014,Free,Introductory,Harvard,Harvard,0.002469978,0,0.407577899,0.404699739,0.37410746,53,51,0.49254902
+n312,Global Health Case Studies from a Biosocial Perspective,Health & Safety,08/18/2015,Closed,Intermediate,Harvard,Harvard,0.002895895,0,0.445254155,0.421424687,0.33780119,68,61,0.416393443
+n703,Applications of Linear Algebra Part 2,Computer Science,09/24/2014,Closed,Intermediate,Davidson,Davidson,0.002515422,7,0.673995051,0.425590335,0.336135715,60,56,0.562337662
+n181,AP¢ç Psychology - Part 5: Health and Behavior,Science,01/28/2016,1~50,Intermediate,UBC,UBC,0.002751268,0,0.410582676,0.412453433,0.331785632,68,57,0.442982456
+n62,Big-Data for Smart Cities,Computer Science,04/14/2016,1~50,Intermediate,IEEE,IEEE,0.002822132,7,0.695041365,0.427232635,0.327338537,71,62,0.473823374
+n81,Implementing Customer Insights for Your Business,Design,03/22/2016,101~200,Introductory,Delft,Delft,0.002459284,1,0.222939883,0.412892914,0.320849381,52,47,0.274745606
+n242,Writing Case Studies: Science of Delivery,Social Sciences,10/22/2015,noInfo,Introductory,Princeton,Others,0.00184117,1,0.13965315,0.400103252,0.301487363,34,33,0.21780303
+n486,Compliance in Office 365¢ç: Data Governance,Computer Science,01/25/2016,Closed,Advanced,Microsoft,Microsoft,0.002793247,7,0.700277799,0.424192666,0.299430231,69,63,0.481310804
+n511,Plasma Physics and Applications,Energy & Earth Sciences,11/04/2015,Closed,Intermediate,EPFL,EPFL,0.001657295,8,0.053621293,0.375848691,0.288627141,23,23,0.209486166
+n557,Analyzing Global Trends for Business and Society,Business & Management,10/05/2015,Closed,Intermediate,Wharton,Others,0.002440469,1,0.313499961,0.409836066,0.288129095,49,49,0.322278912
+n421,Just Money: Banking as if Society Mattered,Economics & Finance,02/04/2016,1~50,Introductory,MIT,MIT,0.002058406,6,0.173246241,0.400309917,0.28791972,43,38,0.240398293
+n724,Critical Issues in Urban Education,Education & Teacher Training,10/06/2014,Closed,Introductory,UChicago,Others,0.001745464,14,0.114446558,0.383094414,0.283148024,32,27,0.230769231
+n374,Introduction to R for Data Science,Data Analysis & Statistics,02/29/2016,1~50,Introductory,Microsoft,Microsoft,0.002995942,11,0.825465052,0.424657534,0.280545234,82,72,0.487089202
+n362,Introduction to Data Storage and Management Technologies,Computer Science,02/19/2016,Closed,Intermediate,IEEE,IEEE,0.00278927,7,0.716934824,0.423497268,0.280433862,72,64,0.465277778
+n528,Learn to Program Using Python,Computer Science,06/02/2015,Closed,Intermediate,UTArlington,Others,0.002206632,11,0.303498935,0.38614848,0.277176854,54,46,0.433816425
+n756,Age of Globalization,Business & Management,06/25/2014,Closed,Intermediate,UTAustin,UTAustin,0.002026239,11,0.233508321,0.403645833,0.267914117,42,41,0.434146341
+n296,Career Edge: Business and Data Analysis,Business & Management,10/26/2015,1~50,Advanced,Fullbridge,Fullbridge,0.002591658,7,0.669253298,0.415772532,0.263821345,65,57,0.546992481
+n693,Medicine in the Digital Age,Medicine,02/11/2015,Closed,Introductory,Rice,Rice,0.002356917,0,0.399487282,0.410269984,0.26271889,56,50,0.536326531
+n123,Question Everything: Scientific Thinking in Real Life,Science,03/02/2016,51~100,Introductory,UQ,UQ,0.001765319,8,0.103730099,0.394803872,0.262232211,30,29,0.204433498
+n492,AP¢ç Physics 2 - Part 3: Optics and Modern Physics,Physics,08/04/2015,Closed,Intermediate,Rice,Rice,0.002118585,8,0.128234994,0.381397638,0.262210748,54,38,0.473684211
+n778,Health in Numbers: Quantitative Methods in Clinical & Public Health Research,Health & Safety,11/13/2013,Free,Introductory,Harvard,Harvard,0.002476905,0,0.413595527,0.411358811,0.258880306,56,52,0.490196078
+n687,Introduction to Engineering and Engineering Mathematics,Electronics,08/26/2014,Closed,Intermediate,UTArlington,Others,0.001987227,9,0.052220051,0.365566038,0.258608862,31,31,0.217204301
+n680,Becoming a Resilient Person - The Science of Stress Management,Communication,03/27/2015,noInfo,Introductory,UWashington,UWashington,0.00187322,9,0.121795183,0.390231621,0.256810313,32,32,0.221774194
+n247,"CLEP Information Systems and Computer Applications, Part 3: Software Development",Computer Science,06/23/2015,1~50,Introductory,UPValencia,UPValencia,0.002303,11,0.243109069,0.405759162,0.252338455,56,47,0.360777058
+n605,The Biology of Water and Health - Sustainable Interventions,Biology & Life Sciences,03/31/2015,Closed,Introductory,OEC,OEC,0.002740998,0,0.486442069,0.410269984,0.24932843,63,59,0.419053185
+n635,Computation Structures - Part 1: Digital Circuits,Computer Science,08/03/2015,Closed,Intermediate,MIT,MIT,0.001785026,9,0.083294777,0.383663366,0.246830537,35,29,0.325123153
+n757,Ideas of the Twentieth Century,Art & Culture,06/25/2014,Closed,Introductory,UTAustin,UTAustin,0.001815363,10,0.039685184,0.365911237,0.244270589,29,26,0.2
+n410,Academic and Business Writing,Humanities,07/13/2015,1~50,Introductory,UC Berkeley,UC Berkeley,0.001921372,1,0.104603478,0.37804878,0.243651568,43,34,0.383244207
+n565,The Next Generation of Infrastructure,Engineering,08/13/2015,Closed,Introductory,Delft,Delft,0.001846726,9,0.125981203,0.389839034,0.242593823,32,32,0.209677419
+n55,Introduction to Cloud Computing,Business & Management,04/07/2016,1~50,Introductory,IEEE,IEEE,0.002224216,9,0.177222298,0.393600813,0.240607139,65,42,0.209059233
+n250,Data Science and machine-learning Essentials,Computer Science,11/13/2015,Closed,Advanced,Microsoft,Microsoft,0.002652647,7,0.714866219,0.421653972,0.240229282,65,61,0.507650273
+n711,American Capitalism: A History,Business & Management,01/21/2015,Closed,Introductory,Cornell,Cornell,0.001685761,14,0.051351907,0.373314066,0.239415129,26,25,0.243333333
+n196,Introduction to Psychology,Philosophy & Ethics,07/21/2015,1~50,Introductory,Tsinghua,Tsinghua,0.001991481,10,0.081372863,0.393800813,0.238873292,51,33,0.270833333
+n193,MyCS: Computer Science for Beginners,Computer Science,04/10/2015,Closed,Introductory,HarveyMudd,HarveyMudd,0.002093621,11,0.283623889,0.377496347,0.237495076,53,44,0.513742072
+n282,Introduction to Java Programming ? Part 2,Computer Science,12/29/2015,Closed,Introductory,HKUST,HKUST,0.002948991,11,0.824109255,0.422343324,0.237281715,80,71,0.492152918
+n653,Statistics for Business ? I,Business & Management,04/23/2015,Closed,Introductory,IIMB,IIMB,0.002791632,7,0.756549581,0.426292629,0.237156716,75,64,0.508928571
+n559,AP¢ç Physics 1 - Part 1: Linear Motion,Physics,10/29/2015,Closed,Intermediate,Rice,Rice,0.002011973,8,0.108693598,0.373854317,0.235284633,49,36,0.436507937
+n532,Implementing DHCP in Microsoft Windows Server,Computer Science,12/21/2015,Closed,Introductory,Microsoft,Microsoft,0.002145979,9,0.128793332,0.382527147,0.234242456,48,40,0.346153846
+n225,The Book: The History of the Book in the 17th and 18th Century Europe,Humanities,07/06/2015,Closed,Introductory,Harvard,Harvard,0.001643262,4,0.052504718,0.368171021,0.234032646,26,26,0.218461538
+n2,Analyzing and Visualizing Data with Excel,Data Analysis & Statistics,02/26/2016,1~50,Advanced,Microsoft,Microsoft,0.002222626,7,0.649561362,0.406610703,0.231876611,53,49,0.705782313
+n425,Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,Education & Teacher Training,04/21/2016,51~100,Intermediate,Harvard,Harvard,0.002488274,7,0.712433916,0.424890351,0.230567556,58,57,0.550125313
+n588,Super-Earths And Life,Science,08/17/2015,Closed,Introductory,Harvard,Harvard,0.001581736,8,0.049673389,0.367996201,0.22972103,31,22,0.251082251
+n249,Data Analysis for Life Sciences 2: Introduction to Linear Models and Matrix Algebra,Biology & Life Sciences,09/02/2015,Closed,Intermediate,Harvard,Harvard,0.002470982,7,0.690949991,0.422804146,0.223842729,73,56,0.573376623
+n412,"Digital Marketing, Social Media and E-Commerce for Your Business",Business & Management,02/05/2016,401~500,Introductory,Wharton,Others,0.002083458,1,0.211801295,0.402806653,0.222365149,41,40,0.315384615
+n41,Climate Change: The Science,Science,03/18/2016,1~50,Introductory,UBC,UBC,0.001960625,5,0.202311174,0.401554404,0.219123177,47,37,0.327327327
+n365,An Introduction to Global Health,Health & Safety,02/06/2014,1~50,Advanced,KI,KI,0.002577373,0,0.420779853,0.408109531,0.217797931,62,54,0.504542278
+n552,Computation Structures ? Part 2: Computer Architecture,Computer Science,09/30/2015,Closed,Introductory,MIT,MIT,0.002103676,11,0.190045395,0.401762571,0.21522929,43,41,0.301219512
+n615,Foundations of Development Policy: Advanced Development Economics,Economics & Finance,06/26/2015,Closed,Introductory,MIT,MIT,0.002403801,7,0.687267042,0.423034934,0.213710077,55,55,0.579124579
+n625,Relics of Chinese History - Part 2: Astronomy and Medicine,Art & Culture,08/19/2015,1~50,Introductory,Tsinghua,Tsinghua,0.001648388,15,0.071331222,0.376762275,0.20960595,31,26,0.363076923
+n272,Journalism for Social Change,Communication,10/20/2015,1~50,Introductory,UC Berkeley,UC Berkeley,0.001950298,5,0.150436029,0.398252826,0.209359763,38,35,0.23697479
+n722,Applications of Linear Algebra Part 1,Computer Science,09/24/2014,Closed,Intermediate,Davidson,Davidson,0.002269892,7,0.657502985,0.418240691,0.202969834,58,51,0.662745098
+n243,Legal Risk Management Strategies for Multinational Enterprises,Law,04/15/2015,201~300,Introductory,BU,BU,0.001494589,6,0.118759375,0.380274779,0.202395229,27,27,0.202279202
+n116,Implementation of Data Structures,Computer Science,02/01/2016,1~50,Introductory,IITBombay,IITBombay,0.00288791,11,0.822555078,0.420510038,0.202219446,82,70,0.506832298
+n630,AP¢ç Physics 1,Physics,08/25/2015,Closed,Intermediate,BU,BU,0.002302404,8,0.157712163,0.390035229,0.199875207,57,43,0.418604651
+n471,Introduction to Management Information Systems (MIS): A Survival Guide,Business & Management,07/27/2015,Closed,Introductory,UC3M,UC3M,0.002108599,11,0.189039478,0.398457584,0.198623212,42,42,0.433217189
+n393,"Responsible Innovation: Ethics, Safety and Technology",Ethics,11/09/2015,1~50,Advanced,Delft,Delft,0.0016446,0,0.134615072,0.396419437,0.197840539,31,29,0.194581281
+n475,"Networks, Crowds and Markets",Computer Science,01/20/2016,Closed,Introductory,Cornell,Cornell,0.001756108,6,0.103805827,0.393800813,0.197039788,30,30,0.216091954
+n67,Supply Chain Design,Business & Management,03/08/2016,101~200,Advanced,MIT,MIT,0.002139177,6,0.136888447,0.385764062,0.195961977,57,40,0.35
+n127,Introduction to Financial and Management Accounting,Business & Management,03/31/2016,noInfo,Introductory,ACCA,ACCA,0.002707788,6,0.273076021,0.406824147,0.195869475,75,55,0.365656566
+n562,AP¢ç Environmental Science - Part 2: Populations,Environmental Studies,08/04/2015,Closed,Introductory,Rice,Rice,0.001926223,8,0.158045268,0.408755274,0.193721115,56,36,0.346031746
+n774,Dynamics,Engineering,11/13/2013,Free,Introductory,MIT,MIT,0.001930791,11,0.154338641,0.391809909,0.193065219,37,37,0.421921922
+n569,English for Doing Business in Asia ? Writing,Business & Management,09/23/2015,Closed,Introductory,HKUST,HKUST,0.001969427,1,0.205216962,0.403856175,0.192732432,44,38,0.361308677
+n168,Introduction to Marketing Essentials,Business & Management,01/13/2016,51~100,Introductory,IIMB,IIMB,0.001972865,6,0.119221595,0.384997516,0.190240906,37,36,0.333333333
+n610,A Global History of Architecture,History,07/28/2015,Closed,Introductory,MIT,MIT,0.001483111,15,0.064575173,0.374939526,0.189924035,24,23,0.300395257
+n70,Risk Management Professional Certificate Exam,Economics & Finance,03/07/2016,401~500,Introductory,new-york Institute of Finance,new-york Institute of Finance,0.002185609,6,0.148778364,0.391611925,0.188379299,62,41,0.346341463
+n149,"Financial Programming and Policies, Part 2: Program Design",Economics & Finance,04/06/2016,1~50,Intermediate,IMF,IMF,0.001827787,6,0.124270022,0.390428212,0.188252382,37,33,0.399621212
+n692,Innovating in Health Care,Business & Management,03/19/2015,Free,Intermediate,Harvard,Harvard,0.002648238,0,0.511174477,0.40961945,0.188248291,67,59,0.476914085
+n231,Think. Create. Code,Computer Science,08/27/2015,Closed,Introductory,Adelaide,Adelaide,0.001599801,11,0.092162796,0.384997516,0.186578374,27,27,0.239316239
+n654,The Biology of Water and Health ? Fundamentals,Biology & Life Sciences,04/27/2015,Closed,Introductory,OEC,OEC,0.002526752,0,0.474994287,0.403645833,0.185912622,59,55,0.468686869
+n478,English for Doing Business in Asia ? Speaking,Business & Management,09/23/2015,Closed,Intermediate,HKUST,HKUST,0.001968612,1,0.207445454,0.401346453,0.185689391,44,38,0.362731152
+n322,Religious Literacy: Traditions and Scriptures,Humanities,02/05/2016,1~50,Introductory,Harvard,Harvard,0.00138611,4,0.044322963,0.362488307,0.184988866,22,20,0.352631579
+n286,Behavioral Medicine: A Key to Better Health,Biology & Life Sciences,11/13/2015,1~50,Introductory,KI,KI,0.002472079,0,0.404332132,0.399278722,0.182894523,54,52,0.518853695
+n27,China (Part 5): From a Global Empire under the Mongols to a Global Economy under the Ming Dynasty,History,03/07/2016,51~100,Intermediate,Harvard,Harvard,0.001733903,15,0.148129855,0.375121007,0.182662386,44,31,0.43655914
+n358,Innovation and Competition: Succeeding through Global Standards,Engineering,02/05/2016,Closed,Intermediate,IEEE,IEEE,0.001537008,6,0.06740051,0.383853393,0.181996292,24,24,0.163043478
+n545,Will China Rise as a Disruptive Force? The Insiders¡¯ Perspective,Economics & Finance,11/03/2015,Free,Introductory,Tsinghua,Tsinghua,0.001878612,15,0.052974839,0.358133087,0.181790412,31,29,0.300492611
+n115,From Atoms to Stars: How Physics Explains Our World,Physics,04/22/2016,1~50,Advanced,MEPhI,Others,0.001909573,8,0.0806733,0.350837483,0.1803962,42,30,0.533333333
+n561,AP¢ç Biology - Part 2: Genetics,Biology & Life Sciences,08/04/2015,Closed,Introductory,Rice,Rice,0.002143634,8,0.116886214,0.382527147,0.178502457,64,38,0.388335704
+n336,How to Code: Systematic Program Design - Part 1,Computer Science,02/03/2016,1~50,Introductory,UBC,UBC,0.002123436,11,0.2906441,0.398662551,0.175462029,56,45,0.473737374
+n712,Introduction to Graphene Science and Technology,Electronics,11/19/2014,Free,Intermediate,Chalmers,Others,0.001843168,8,0.109219946,0.376213592,0.174591565,34,33,0.484848485
+n106,Human Anatomy,Biology & Life Sciences,12/04/2015,1~50,Introductory,HKPolyU,HKPolyU,0.001774222,0,0.133800498,0.383283877,0.17302037,33,30,0.271264368
+n254,"CLEP Information Systems and Computer Applications, Part 4: Programming",Computer Science,06/23/2015,1~50,Introductory,UPValencia,UPValencia,0.002492394,11,0.337936141,0.398662551,0.172777142,64,54,0.454227813
+n417,Introduction to the Music Business,Music,03/21/2016,1~50,Intermediate,Berklee,Others,0.001822192,15,0.179837816,0.390035229,0.172526468,35,34,0.43315508
+n93,Data Analysis: Building Your Own Business Dashboard,Data Analysis & Statistics,12/21/2015,51~100,Introductory,Delft,Delft,0.00270047,7,0.752441462,0.425356751,0.171127362,71,63,0.525345622
+n141,Solar Energy,Electronics,03/14/2016,1~50,Intermediate,Delft,Delft,0.00169548,8,0.065469948,0.378602833,0.169639071,31,27,0.225071225
+n609,Product Design: The Delft Design Approach,Design,04/27/2016,1~50,Introductory,Delft,Delft,0.001481001,6,0.091421365,0.387306347,0.169064245,27,24,0.326086957
+n97,CS For All: Introduction to Computer Science and Python Programming,Computer Science,02/01/2016,1~50,Intermediate,HarveyMudd,HarveyMudd,0.002231133,11,0.339665281,0.393201421,0.167671333,60,49,0.454081633
+n350,Windows 10 Features for a Mobile Workforce: Identity Management and Data Access,Computer Science,02/17/2016,1~50,Introductory,Microsoft,Microsoft,0.001885633,9,0.09700561,0.371880998,0.166481964,33,32,0.284274194
+n773,Health and Society,Health & Safety,11/13/2013,Free,Introductory,Harvard,Harvard,0.002460098,0,0.443711932,0.405546834,0.165997292,53,53,0.5
+n525,Death 101: Shaping the Future of Global Health,Biology & Life Sciences,12/09/2015,noInfo,Introductory,University of Toronto,University of Toronto,0.002543166,0,0.497618404,0.407465825,0.165336864,65,56,0.487012987
+n446,Sensing Planet Earth ? Water and Ice,Energy & Earth Sciences,11/20/2015,Closed,Intermediate,Chalmers,Others,0.002070623,5,0.194137542,0.382716049,0.164677763,44,38,0.357041252
+n604,Strategy and the Sustainable Enterprise,Business & Management,08/07/2015,Closed,Introductory,IIMB,IIMB,0.001672994,5,0.105201491,0.386340977,0.16438345,35,29,0.214285714
+n490,A Room with a View by Forster: BerkeleyX Book Club,Humanities,01/15/2015,Closed,Introductory,UC Berkeley,UC Berkeley,0.001978724,4,0.077654017,0.361642557,0.164260099,41,32,0.387096774
+n178,Advanced Spark for Data Science and Data Engineering,Data Analysis & Statistics,02/08/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.002426846,7,0.673356407,0.410922587,0.163791653,58,55,0.6
+n767,"Robot Mechanics and Control, Part I",Electronics,02/06/2014,Free,Advanced,SNU,SNU,0.001444931,11,0.060401409,0.367124586,0.163690691,26,23,0.33201581
+n491,AP¢ç Environmental Science - Part 3: Pollution and Resources,Environmental Studies,08/04/2015,Closed,Introductory,Rice,Rice,0.001825109,8,0.133661848,0.396014308,0.162591597,52,33,0.376893939
+n503,Design and Development of Educational Technology,Education & Teacher Training,12/17/2015,Closed,Intermediate,MIT,MIT,0.001507004,5,0.108787983,0.392802838,0.161570467,27,26,0.276923077
+n685,Business and its Environment: An Overview of Business and the Role of Finance in Business,Business & Management,09/08/2014,Closed,Advanced,OEC,OEC,0.001988282,6,0.226145433,0.401554404,0.161314538,44,40,0.464102564
+n537,Principles of Synthetic Biology,Biology & Life Sciences,08/18/2015,Closed,Intermediate,MIT,MIT,0.001740022,8,0.076539225,0.369928401,0.159444202,32,29,0.403940887
+n512,Readings in Global Health,Health & Safety,11/19/2015,Closed,Advanced,Harvard,Harvard,0.002379933,0,0.430206207,0.405546834,0.158846393,61,51,0.564705882
+n644,SharePoint Basics for IT Professionals,Computer Science,07/15/2015,Closed,Intermediate,Microsoft,Microsoft,0.00172753,6,0.138221841,0.387887888,0.155960821,34,32,0.350806452
+n407,machine-learning for Data Science and Analytics,Data Analysis & Statistics,03/15/2016,51~100,Introductory,Columbia,Columbia,0.002347959,7,0.672707191,0.409186906,0.155938248,62,53,0.636429608
+n92,The History of Medieval Medicine Through Jewish Manuscripts,History,04/19/2016,1~50,Introductory,Penn,Penn,0.001350357,4,0.056483884,0.350837483,0.155921395,23,20,0.247368421
+n465,Introduction to Mao Zedong Thought,History,12/23/2015,noInfo,Introductory,Tsinghua,Tsinghua,0.001521651,15,0.050153833,0.357307515,0.155669099,25,24,0.413043478
+n434,Basic Mandarin Chinese ? Level 1,Language,03/02/2016,1~50,Introductory,Mandarin,Others,0.001566329,15,0.100784336,0.369399428,0.155174986,29,27,0.373219373
+n485,The Conquest of Space: Space Exploration and Rocket Science,Engineering,07/24/2015,Closed,Introductory,UC3M,UC3M,0.001261379,15,0.046593449,0.37134643,0.154700426,20,18,0.281045752
+n109,On-Ramp to AP* Physics C: Mechanics,Physics,02/23/2016,1~50,Introductory,Weston High School,Others,0.002035816,8,0.102392842,0.36852116,0.153512054,39,36,0.46031746
+n111,Enterprise Software Lifecycle Management,Computer Science,04/19/2016,1~50,Introductory,MEPhI,Others,0.001753071,6,0.146426112,0.394201424,0.153488179,35,33,0.357954545
+n156,Smart Cities,Architecture,04/26/2016,1~50,Introductory,ETH,ETH,0.001572614,5,0.085864811,0.376762275,0.153288971,38,26,0.32
+n533,Leadership for Engineers,Business & Management,09/14/2015,Closed,Introductory,Delft,Delft,0.00157091,5,0.07168764,0.378973105,0.150358877,31,25,0.233333333
+n502,"Cellular Solids 1: Structures, Properties and Engineering Applications",Engineering,11/19/2015,Closed,Introductory,MIT,MIT,0.001486012,10,0.057627809,0.361811391,0.14992072,24,22,0.225108225
+n628,"Mechanical Behavior of Materials, Part 1: Linear Elastic Behavior",Engineering,08/04/2015,Closed,Intermediate,MIT,MIT,0.001503509,10,0.093586685,0.37134643,0.149431777,29,25,0.31
+n579,Atomic and Optical Physics I ? Part 2: Atomic structure and atoms in external field,Physics,08/31/2015,Closed,Introductory,MIT,MIT,0.001826836,8,0.087247914,0.362149533,0.14916313,45,31,0.509677419
+n766,United States Health Policy,Health & Safety,12/20/2013,Closed,Introductory,Harvard,Harvard,0.002200036,0,0.398890389,0.398457584,0.148195275,51,47,0.585568918
+n339,Managing Microsoft Windows Server Active Directory Domain Services,Computer Science,02/12/2016,1~50,Introductory,Microsoft,Microsoft,0.001896072,9,0.081912307,0.368171021,0.146663152,45,33,0.304924242
+n400,The Analytics Edge,Data Analysis & Statistics,02/22/2016,51~100,Introductory,MIT,MIT,0.001556096,7,0.17931293,0.382527147,0.146528506,30,28,0.272486772
+n624,Introduction to XAML and Application Development,Computer Science,07/29/2015,Closed,Introductory,Microsoft,Microsoft,0.001420809,9,0.059121612,0.358796296,0.146272005,29,21,0.39047619
+n135,Music Technology Foundations,Music,03/24/2016,noInfo,Advanced,Adelaide,Adelaide,0.001471094,15,0.059292019,0.374939526,0.145693985,26,24,0.369565217
+n418,Music Production and Vocal Recording Technology,Engineering,03/21/2016,1~50,Intermediate,Berklee,Others,0.001436388,15,0.080979045,0.376945525,0.142896577,25,23,0.367588933
+n220,The Book: Making and Meaning in the Medieval Manuscript,Humanities,07/06/2015,Closed,Intermediate,Harvard,Harvard,0.001686841,4,0.038606218,0.333333333,0.142755846,29,23,0.395256917
+n593,Mathematical Modeling in Biology and Life Sciences,Biology & Life Sciences,09/04/2015,Free,Introductory,Peking,Others,0.00121772,8,0.068093037,0.381773399,0.142164068,20,19,0.14619883
+n677,Genomic Medicine Gets Personal,Biology & Life Sciences,04/21/2015,Closed,Introductory,Georgetown,Georgetown,0.001577688,0,0.111685624,0.378973105,0.141792233,30,27,0.227920228
+n47,Global Social Change,Social Sciences,04/06/2016,1~50,Introductory,Wellesley,Wellesley,0.001873119,5,0.199515188,0.389447236,0.139729234,41,35,0.394957983
+n379,Health Professional Teaching Skills ? Level 2 ? Strategies,Education & Teacher Training,02/04/2016,1~50,Introductory,University of Toronto,University of Toronto,0.002328557,0,0.401544648,0.399690562,0.138284968,57,49,0.55952381
+n273,Smithsonian¡¯s Objects That Define America,Art & Culture,12/23/2015,1~50,Introductory,Smithsonian,Others,0.001394385,14,0.027959016,0.339465615,0.138147716,21,18,0.37254902
+n276,PH556X: Practical Improvement Science in Health Care: A Roadmap for Getting Results,Health & Safety,11/04/2015,Closed,Introductory,Harvard,Harvard,0.002084466,0,0.398812929,0.400723888,0.137709097,54,45,0.633333333
+n49,Modern Japanese Architecture: From Meiji Restoration to Today,Architecture,07/23/2015,51~100,Introductory,TokyoTech,Others,0.001158257,5,0.046783825,0.355831038,0.134567543,17,15,0.342857143
+n280,Italian Language and Culture: Beginner,Language,12/09/2015,1~50,Introductory,Wellesley,Wellesley,0.001339329,15,0.09150071,0.372596154,0.134151277,28,22,0.333333333
+n180,Supply Chain Technology & Systems,Business & Management,03/09/2016,101~200,Introductory,MIT,MIT,0.001964032,6,0.193212465,0.399278722,0.132040909,58,39,0.408906883
+n152,Introduction to Water and Climate,Environmental Studies,03/15/2016,1~50,Advanced,Delft,Delft,0.001797129,5,0.097335134,0.366777094,0.131659821,40,30,0.289655172
+n699,I Heart Stats: Learning to Love Statistics,Math,12/01/2014,Closed,Introductory,NotreDame,Others,0.002140537,7,0.667230791,0.407037815,0.131224892,60,49,0.730442177
+n331,Combinatorial Mathematics,Math,12/23/2015,1~50,Introductory,Tsinghua,Tsinghua,0.001340369,1,0.05534915,0.357637287,0.131032423,23,22,0.341991342
+n507,Chinese Thought: Ancient Wisdom Meets Modern Science - Part 1,Art & Culture,12/23/2015,Closed,Introductory,UBC,UBC,0.001891727,15,0.052828252,0.359962843,0.130747768,34,29,0.325123153
+n432,Mobile Application Experiences Part 4: Understanding Use,Computer Science,01/08/2016,1~50,Introductory,MIT,MIT,0.001280892,9,0.065249347,0.373134328,0.130408843,37,21,0.347619048
+n292,Introduction to Probability - The Science of Uncertainty,Data Analysis & Statistics,11/24/2015,Closed,Introductory,MIT,MIT,0.001073794,7,0.072177145,0.353558394,0.130224492,16,15,0.247619048
+n752,Effective Field Theory,Physics,06/04/2014,Free,Introductory,MIT,MIT,0.001262479,10,0.04386295,0.371702638,0.130005287,19,19,0.251461988
+n415,Introduction to Risk Management,Economics & Finance,03/04/2016,51~100,Intermediate,new-york Institute of Finance,new-york Institute of Finance,0.002364076,6,0.153590732,0.380088279,0.127841792,61,45,0.397979798
+n614,Atomic and Optical Physics I? Part 1: Resonance,Physics,08/19/2015,Closed,Introductory,MIT,MIT,0.002132466,8,0.094447247,0.355504587,0.127389435,53,36,0.444444444
+n309,The Challenges of Global Poverty,Economics & Finance,12/28/2015,Closed,Intermediate,MIT,MIT,0.001360845,9,0.059225883,0.370105062,0.12734888,22,22,0.316017316
+n424,Data Analysis: Visualization and Dashboard Design,Data Analysis & Statistics,12/21/2015,51~100,Introductory,Delft,Delft,0.002589912,7,0.747636203,0.423497268,0.127024007,73,61,0.556830601
+n563,AP¢ç Physics 2 - Part 2: Electricity and Magnetism,Physics,08/04/2015,Closed,Introductory,Rice,Rice,0.002115152,8,0.123810535,0.368871966,0.126709584,56,38,0.483641536
+n114,HTML5 Part 2: Advanced Techniques for Designing HTML5 Apps,Computer Science,02/04/2016,51~100,Introductory,W3C,Others,0.001466914,9,0.077011035,0.36852116,0.125950348,27,24,0.217391304
+n313,Philosophy and Critical Thinking,Philosophy & Ethics,02/04/2016,51~100,Intermediate,UQ,UQ,0.001291425,10,0.027096043,0.353719763,0.125358204,21,18,0.326797386
+n661,The Business of Mining,Engineering,05/27/2015,Closed,Introductory,Curtin,Others,0.001189321,9,0.100486271,0.37367406,0.125099028,20,20,0.278947368
+n121,Practical Learning Analytics,Data Analysis & Statistics,02/29/2016,1~50,Advanced,Michigan,Others,0.002067006,7,0.658333649,0.403016121,0.124791653,54,48,0.75
+n277,Pricing Options with Mathematical Models,Economics & Finance,01/20/2016,51~100,Intermediate,Caltech,Others,0.001546842,6,0.108482965,0.371880998,0.123168993,28,28,0.486772487
+n649,Preparing for the AP* Computer Science A Exam ? Part 2,Computer Science,09/09/2014,Closed,Introductory,Cooper Union,Others,0.002041241,11,0.29384514,0.377864456,0.123117254,54,44,0.521141649
+n295,AP¢ç Spanish Language and Culture,Language,06/30/2015,Closed,Introductory,BU,BU,0.001385183,11,0.106342917,0.366603595,0.12239073,26,24,0.304347826
+n396,Introduction to Accounting - Part 1: Basics of Financial Statements,Business & Management,01/25/2016,51~100,Introductory,IIMB,IIMB,0.001547774,6,0.094270188,0.356321839,0.122371597,33,26,0.596923077
+n54,"Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis",Economics & Finance,03/30/2016,1~50,Introductory,IMF,IMF,0.001635018,6,0.097599092,0.368171021,0.121770202,32,29,0.480295567
+n694,The Engineering of Structures Around Us,Engineering,01/29/2015,Closed,Intermediate,Dartmouth,Others,0.00152684,11,0.169921085,0.382527147,0.121230645,30,29,0.603448276
+n404,Data Analysis for Life Sciences 7: Case Studies in Functional Genomics,Biology & Life Sciences,09/25/2015,1~50,Introductory,Harvard,Harvard,0.002147859,7,0.675357525,0.407251708,0.121076789,55,50,0.702857143
+n144,Human Origins,Social Sciences,03/28/2016,1~50,Intermediate,ASU,ASU,0.001420745,5,0.051240702,0.366950758,0.120597139,23,21,0.295238095
+n353,"JavaScript, HTML and CSS Web Development",Computer Science,02/22/2016,1~50,Intermediate,Microsoft,Microsoft,0.001252353,9,0.060490198,0.358298659,0.119778146,27,18,0.320261438
+n723,"Central Challenges of American National Security, Strategy, and the Press",Ethics,10/27/2014,Closed,Intermediate,Harvard,Harvard,0.001003874,6,0.048486199,0.360800745,0.119452706,14,14,0.285714286
+n631,American Government,Social Sciences,06/26/2015,Closed,Introductory,Harvard,Harvard,0.001305218,14,0.064214096,0.358962483,0.119186166,20,19,0.222222222
+n88,Introduction to Cloud Infrastructure Technologies,Computer Science,03/15/2016,51~100,Introductory,LinuxFoundation,Others,0.001531387,9,0.127451098,0.384615385,0.11812434,36,28,0.301587302
+n209,Linux System Administration Essentials,Computer Science,06/01/2015,401~500,Advanced,LinuxFoundation,Others,0.001358572,9,0.084221942,0.37457709,0.118063439,23,23,0.304347826
+n705,Western and Chinese Art: Masters and Classics,Art & Culture,01/07/2015,Closed,Introductory,Tsinghua,Tsinghua,0.001620633,15,0.044972925,0.358464385,0.116901412,29,24,0.413043478
+n179,AP¢ç Psychology - Part 4: How Behavior Works,Science,01/28/2016,1~50,Intermediate,UBC,UBC,0.00164717,10,0.080598782,0.385188867,0.116891916,32,27,0.336182336
+n611,Compliance in Office 365: eDiscovery,Computer Science,08/31/2015,Closed,Intermediate,Microsoft,Microsoft,0.001725822,9,0.119441167,0.386340977,0.116141138,38,31,0.320430108
+n771,"Was Alexander Great? The Life, Leadership, and Legacies of History¡¯s Greatest Warrior",History,11/13/2013,Free,Introductory,Wellesley,Wellesley,0.001199946,5,0.022511147,0.343376163,0.115548481,16,16,0.283333333
+n36,Adventures of Huckleberry Finn by Twain: BerkeleyX Book Club,Humanities,11/10/2015,1~50,Intermediate,UC Berkeley,UC Berkeley,0.001637061,4,0.058282859,0.356485741,0.115016077,31,25,0.503333333
+n582,The EU and Human Rights,Law,08/07/2015,Free,Introductory,KULeuven,Others,0.001283678,10,0.061621725,0.371702638,0.113812136,22,20,0.305263158
+n386,The Civil War and Reconstruction ? 1865-1890: The Unfinished Revolution,History,09/09/2015,Closed,Intermediate,Columbia,Columbia,0.001016127,14,0.035690633,0.339465615,0.113634148,17,12,0.318181818
+n360,Quantitative Biology Workshop,Biology & Life Sciences,01/20/2016,Closed,Intermediate,MIT,MIT,0.001637414,8,0.111928601,0.376031053,0.113552018,34,30,0.377011494
+n573,The Great War and Modern Philosophy,Humanities,07/06/2015,Free,Introductory,KULeuven,Others,0.001401262,10,0.022361131,0.334484247,0.113371159,21,18,0.294117647
+n406,Introduction to Bioethics,Biology & Life Sciences,02/26/2016,1~50,Introductory,Georgetown,Georgetown,0.002114298,0,0.37412954,0.390035229,0.113318024,49,44,0.658562368
+n590,Electronic Literature,Literature,05/05/2015,Closed,Introductory,Davidson,Davidson,0.001095228,9,0.032936007,0.360800745,0.113178068,15,15,0.295238095
+n448,Open Government,Social Sciences,10/26/2015,Closed,Introductory,Delft,Delft,0.001904805,7,0.637751642,0.402806653,0.112799002,45,44,0.868921776
+n96,Western Civilization: Ancient and Medieval Europe,History,03/28/2016,1~50,Introductory,ASU,ASU,0.001207933,4,0.030561981,0.348158131,0.112378053,18,17,0.25
+n4,Inclusive Leadership Training: Leading with Effective Communication,Business & Management,09/18/2015,1~50,Introductory,Catalyst,Others,0.001328965,5,0.060103469,0.370990905,0.112086168,25,21,0.223809524
+n619,AP¢ç Environmental Science - Part 1: The Living World,Environmental Studies,08/04/2015,Closed,Introductory,Rice,Rice,0.001701535,8,0.127486753,0.397843943,0.111794069,50,31,0.4
+n349,Through my Eyes ? Intellectual Disability Healthcare around the World,Medicine,02/05/2016,51~100,Introductory,UQ,UQ,0.00203313,0,0.373468389,0.390231621,0.111775059,51,43,0.685492802
+n155,Introduction to Corporate Finance,Business & Management,01/25/2016,51~100,Advanced,IIMB,IIMB,0.001859599,6,0.119119306,0.374939526,0.111705294,40,34,0.413547237
+n364,Introduction to Xamarin.Forms,Computer Science,03/28/2016,1~50,Introductory,Microsoft,Microsoft,0.001545049,9,0.088745034,0.365911237,0.111349152,32,26,0.286153846
+n447,The Meaning of Rome: The Renaissance and Baroque City,Architecture,12/22/2015,Closed,Introductory,NotreDame,Others,0.000993,5,0.032124859,0.345057881,0.111135691,17,12,0.348484848
+n710,Religion and Hip Hop Culture,Music,10/06/2014,Closed,Introductory,Rice,Rice,0.001713618,15,0.050917462,0.359128823,0.110838235,28,27,0.336182336
+n324,Designing Advanced Applications using XAML,Computer Science,02/26/2016,1~50,Advanced,Microsoft,Microsoft,0.001290531,9,0.056399085,0.367298578,0.110355773,24,20,0.231578947
+n676,Sustainability in Everyday Life,Environmental Studies,02/12/2015,Free,Introductory,Chalmers,Others,0.001508136,5,0.057448324,0.365911237,0.110132928,27,23,0.312252964
+n779,Relics in Chinese History - Part 1: Agriculture and Manufacturing,Art & Culture,08/19/2015,1~50,Introductory,Tsinghua,Tsinghua,0.001746753,15,0.057415131,0.359295318,0.110099186,34,28,0.367724868
+n539,"Developing International Software, Part 2",Computer Science,11/13/2015,Closed,Intermediate,Microsoft,Microsoft,0.001702161,6,0.128111035,0.384615385,0.109721711,35,31,0.303225806
+n17,Introduction to Game Design,Education & Teacher Training,03/09/2016,51~100,Intermediate,MIT,MIT,0.001515237,6,0.088640416,0.377680312,0.10843958,29,26,0.313846154
+n381,Finance for Everyone: Smart Tools for Decision-Making,Economics & Finance,09/29/2015,1~50,Introductory,Michigan,Others,0.001711721,6,0.142626095,0.383283877,0.108382823,38,32,0.435483871
+n725,Organic Electronic Devices,Electronics,10/27/2014,Closed,Introductory,Purdue,Purdue,0.001184149,9,0.043209529,0.363679024,0.106416113,16,16,0.233333333
+n113,Nonlinear Differential Equations: Order and Chaos,Math,10/20/2015,Closed,Intermediate,BU,BU,0.001684028,11,0.144906073,0.391611925,0.106405981,39,32,0.516129032
+n768,Wiretaps to Big-Data: Privacy and Surveillance in the Age of Interconnection,Social Sciences,11/13/2013,Free,Introductory,Cornell,Cornell,0.001104474,10,0.080475317,0.371880998,0.106026051,17,17,0.227941176
+n467,AP¢ç Biology - Part 4: Ecology,Biology & Life Sciences,08/04/2015,Closed,Introductory,Rice,Rice,0.001839362,8,0.109564296,0.378417969,0.105899126,54,33,0.46969697
+n118,"Sharks! Global Biodiversity, Biology, and Conservation",Biology & Life Sciences,02/12/2016,1~50,Introductory,CornellX&UQ,Others,0.001666524,8,0.094699657,0.375302663,0.10416253,29,29,0.450738916
+n436,Creativity & Entrepreneurship,Business & Management,03/15/2016,1~50,Advanced,Berklee,Others,0.001436857,15,0.071658365,0.37205953,0.103966021,27,23,0.351778656
+n235,"Saving Schools, Mini-Course 3: Accountability and National Standards",Education & Teacher Training,09/01/2015,Closed,Intermediate,Harvard,Harvard,0.001230623,14,0.068959969,0.369047619,0.103870137,25,18,0.267973856
+n553,Human Rights: The Right to Freedom of Expression,Social Sciences,09/14/2015,Closed,Introductory,Amnesty International,Others,0.001144896,10,0.039337821,0.354204753,0.103739626,18,16,0.425
+n335,Data Analysis for Life Sciences 6: High-performance Computing for Reproducible Genomics,Biology & Life Sciences,09/25/2015,1~50,Introductory,Harvard,Harvard,0.001283142,7,0.233437305,0.384424603,0.103671203,33,26,0.36
+n95,Introduction to Solar Systems Astronomy,Science,03/28/2016,1~50,Intermediate,ASU,ASU,0.000942,8,0.028726048,0.361136999,0.103314113,12,12,0.151515152
+n367,Ethics in Life Sciences and Healthcare: Exploring Bioethics through Manga,Philosophy & Ethics,02/09/2016,Closed,Introductory,KyotoU,KyotoU,0.001428506,0,0.066361399,0.357637287,0.103154306,24,22,0.272727273
+n288,Discovery Precalculus: A Creative and Connected Approach,Math,09/09/2015,1~50,Intermediate,UTAustin,UTAustin,0.001177038,8,0.050167737,0.355504587,0.102941746,18,17,0.397058824
+n701,"The Search for Vernacular Architecture of Asia, Part 1",Architecture,05/12/2014,Closed,Introductory,HKU,Others,0.001140462,1,0.089533829,0.384424603,0.102068757,19,19,0.304093567
+n580,Mobile Computing with App Inventor ? CS Principles,Computer Science,05/12/2015,Closed,Introductory,Trinity,Others,0.001827881,9,0.154278619,0.368871966,0.101789021,51,35,0.374789916
+n33,Data Science Ethics,Data Analysis & Statistics,10/26/2015,1~50,Introductory,Michigan,Others,0.002040041,7,0.645339396,0.408755274,0.101320907,47,47,0.765957447
+n522,"Fundamentals of Immunology, Part 2",Biology & Life Sciences,09/02/2015,Closed,Introductory,Rice,Rice,0.00123966,8,0.052717368,0.360800745,0.101316492,28,19,0.269005848
+n499,The Civil War and Reconstruction - 1861 - 1865: A New Birth of Freedom,History,09/09/2015,Closed,Introductory,Columbia,Columbia,0.001135602,14,0.021978929,0.332047986,0.10090718,19,14,0.373626374
+n762,Cyber-Physical Systems,Computer Science,03/07/2014,Free,Advanced,UC Berkeley,UC Berkeley,0.001867508,11,0.182179158,0.392008093,0.100842638,38,37,0.454954955
+n94,Introduction to Health and Wellness,Health & Safety,01/20/2016,1~50,Introductory,ASU,ASU,0.001990982,0,0.378742848,0.394602851,0.100809141,48,43,0.681063123
+n441,AP¢ç Environmental Science - Part 4: Exam Review,Environmental Studies,08/04/2015,Closed,Introductory,Rice,Rice,0.001747353,8,0.14318234,0.39907312,0.100568354,60,33,0.410984848
+n315,Water and Wastewater Treatment Engineering: Biochemical Technology,Environmental Studies,02/09/2016,1~50,Introductory,Tsinghua,Tsinghua,0.00166028,5,0.10274675,0.37804878,0.099400865,36,29,0.31773399
+n89,Islam Through Its Scriptures,Humanities,02/05/2016,1~50,Intermediate,Harvard,Harvard,0.001356714,4,0.0429519,0.339912281,0.098726293,19,19,0.49122807
+n458,Engineering: Building with Nature,Biology & Life Sciences,10/19/2015,Closed,Intermediate,Delft,Delft,0.001069278,9,0.045781225,0.367996201,0.097916966,16,16,0.258333333
+n480,The American Renaissance: Classic Literature of the 19th Century,Literature,10/28/2015,Closed,Introductory,Dartmouth,Others,0.001184467,14,0.036865827,0.358630264,0.09740565,16,16,0.325
+n581,Science in Art: The Chemistry of Art Materials and Conservation,Chemistry,04/30/2015,Closed,Introductory,Trinity,Others,0.000974,8,0.025620686,0.340509666,0.096841876,14,13,0.230769231
+n543,Advanced Credit Risk Management,Economics & Finance,09/23/2015,301~400,Introductory,Delft,Delft,0.001492731,6,0.092755963,0.365566038,0.096641294,32,26,0.541538462
+n597,Statistics for Business - II,Business & Management,04/29/2015,Closed,Introductory,IIMB,IIMB,0.001646931,1,0.275632718,0.393201421,0.095726815,35,33,0.433712121
+n556,Atomic and Optical Physics I? Part 3: Atom-Light Interactions 1 -- Matrix elements and quantized field,Physics,08/31/2015,Closed,Introductory,MIT,MIT,0.001767223,8,0.08627975,0.356158088,0.095118248,46,30,0.556321839
+n740,Data Structures and Algorithms Part 2,Computer Science,09/24/2014,Free,Intermediate,Peking,Others,0.002073061,7,0.655474438,0.407465825,0.093737268,53,48,0.743794326
+n223,"The Book: Print and Manuscript in Western Europe, Asia and the Middle East (1450-1650)",Humanities,07/06/2015,Closed,Introductory,Harvard,Harvard,0.001423988,4,0.05356446,0.348314607,0.093708245,29,22,0.467532468
+n340,"The Divine Comedy: Dante's Journey to Freedom, Part 1",Humanities,02/10/2016,Closed,Introductory,Georgetown,Georgetown,0.000909,14,0.008021572,0.30535855,0.093689956,15,8,0.25
+n755,Introduction to Global Sociology,Economics & Finance,11/13/2013,Free,Intermediate,Wellesley,Wellesley,0.001210503,0,0.123697429,0.353236098,0.093344468,24,19,0.730994152
+n718,"Electricity & Magnetism, Part 2",Physics,12/15/2014,Closed,Introductory,Rice,Rice,0.001350917,9,0.029359752,0.341259357,0.093215444,24,18,0.346405229
+n100,Energy Within Environmental Constraints,Environmental Studies,03/08/2016,101~200,Introductory,Harvard,Harvard,0.001369262,8,0.068357789,0.375848691,0.092916593,24,22,0.25974026
+n45,Astrophysics: Cosmology,Physics,02/11/2016,1~50,Introductory,ANU,ANU,0.001156543,8,0.025584962,0.340659341,0.091514457,20,14,0.373626374
+n476,Introduction to Project Management,Business & Management,06/29/2015,Closed,Introductory,Adelaide,Adelaide,0.001688955,6,0.152049645,0.385764062,0.091009892,33,32,0.415322581
+n468,AP¢ç Physics 1 - Part 3: Electricity & Waves,Science,07/24/2015,Closed,Introductory,Rice,Rice,0.001662766,8,0.081826819,0.356649793,0.090920895,37,28,0.58994709
+n753,Improving Global Health: Focusing on Quality and Safety,Health & Safety,03/27/2014,Free,Advanced,Harvard,Harvard,0.002055491,0,0.391655964,0.391019173,0.09071007,53,44,0.66384778
+n419,Fundamentals of Neuroscience Part 2: Neurons and Networks,Biology & Life Sciences,04/19/2016,noInfo,Introductory,Harvard,Harvard,0.001339224,10,0.028477363,0.343528369,0.090691943,26,19,0.368421053
+n435,Humanity and Nature in Chinese Thought,Art & Culture,03/16/2016,1~50,Intermediate,HKU,Others,0.001404387,15,0.069564734,0.369928401,0.090126058,24,23,0.434782609
+n466,Space Mission Design and Operations,Engineering,09/11/2015,Closed,Introductory,EPFL,EPFL,0.001236541,8,0.03617687,0.344291426,0.089773968,18,18,0.431372549
+n442,AP¢ç Physics 2 ? Part 4: AP Review and Exam Preparation,Physics,08/04/2015,Closed,Intermediate,Rice,Rice,0.001973021,8,0.131780451,0.377312561,0.089704359,66,37,0.522522523
+n508,Introduction to Global Hospitality Management,Business & Management,09/30/2015,Closed,Introductory,Cornell,Cornell,0.001304447,6,0.090664333,0.369047619,0.089517913,23,23,0.557312253
+n449,DNA: Biology¡¯s Genetic Code,Biology & Life Sciences,12/22/2015,Closed,Advanced,Rice,Rice,0.001280959,8,0.042877995,0.355994488,0.089437512,31,19,0.269005848
+n474,Knowledge-Management and Big-Data in Business,Business & Management,11/18/2015,Closed,Introductory,HKPolyU,HKPolyU,0.001801911,1,0.251044335,0.394402036,0.08896051,36,36,0.404761905
+n182,AP¢ç Psychology - Part 6: Exam Preparation & Review,Science,01/28/2016,1~50,Introductory,UBC,UBC,0.001265694,10,0.068796685,0.37205953,0.08891955,24,21,0.295238095
+n174,AP¢ç Psychology - Part 2: How the Brain Works,Science,01/28/2016,1~50,Introductory,UBC,UBC,0.001389174,10,0.046581018,0.358630264,0.088496435,30,21,0.280952381
+n252,M&A Professional Certificate Part 6 - Examination,Economics & Finance,07/21/2015,401~500,Intermediate,new-york Institute of Finance,new-york Institute of Finance,0.001260025,6,0.073302905,0.361811391,0.08832384,35,21,0.357142857
+n620,AP¢ç Physics 2 - Part 1: Fluids and Thermodynamics,Physics,08/04/2015,Closed,Introductory,Rice,Rice,0.001952047,8,0.123067459,0.36922344,0.087668885,53,36,0.53015873
+n305,The Psychology of Criminal Justice,Social Sciences,02/04/2016,51~100,Introductory,UQ,UQ,0.001399428,10,0.057525633,0.359795729,0.087426778,26,22,0.264069264
+n472,Islamic Finance and Banking,Economics & Finance,11/23/2015,Closed,Advanced,IRTI,Others,0.001628067,6,0.105043151,0.366777094,0.087208424,39,29,0.519704433
+n640,"Developing International Software, Part 1",Computer Science,07/29/2015,Closed,Intermediate,Microsoft,Microsoft,0.001182291,6,0.068507776,0.367472736,0.086484265,21,19,0.280701754
+n177,AP¢ç Psychology - Part 3: How the Mind Works,Science,01/28/2016,1~50,Introductory,UBC,UBC,0.001342414,10,0.044840091,0.356158088,0.086466404,22,20,0.305263158
+n517,Preparing for the AP Calculus AB Exam ? Part 2: Integrals,Math,11/03/2015,Closed,Introductory,Rice,Rice,0.001268463,8,0.051199653,0.35179301,0.085994308,24,19,0.403508772
+n79,Reputation Management in a Digital World,Business & Management,03/11/2016,1~50,Introductory,Curtin,Others,0.001558356,9,0.127541578,0.385380408,0.085717693,29,28,0.354497354
+n652,Sabermetrics 101: Introduction to Baseball Analytics,Data Analysis & Statistics,02/18/2015,Closed,Introductory,BU,BU,0.002011623,7,0.655311816,0.399896801,0.085237359,52,46,0.815458937
+n704,Financial Analysis and Decision Making,Business & Management,01/06/2015,Closed,Introductory,Tsinghua,Tsinghua,0.001471627,6,0.087343137,0.359128823,0.084873327,26,26,0.547692308
+n413,Human Spaceflight - An introduction,Engineering,01/19/2016,noInfo,Introductory,KTH,Others,0.001221661,15,0.048075571,0.365221489,0.084754709,21,18,0.385620915
+n457,"Personal Finance, Part 1: Investing in Yourself",Economics & Finance,02/10/2016,Closed,Introductory,Wellesley,Wellesley,0.001357165,6,0.086896584,0.35452882,0.084522294,23,23,0.691699605
+n270,Career Edge: Analytical Problem Solving and Design Thinking,Business & Management,10/26/2015,1~50,Introductory,Fullbridge,Fullbridge,0.001264404,7,0.080468438,0.364020667,0.084027731,27,20,0.278947368
+n151,Big-Data Analysis with Spark,Data Analysis & Statistics,02/08/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.002072869,7,0.654382212,0.399278722,0.083849958,49,48,0.757978723
+n698,"How Stuff Moves, Part 3: Wave Motion",Physics,01/12/2015,Closed,Introductory,HarveyMudd,HarveyMudd,0.00183675,8,0.076108739,0.358630264,0.083828576,42,31,0.395698925
+n729,"How Stuff Moves, Part 1: Linear Motion",Physics,11/07/2014,Free,Introductory,HarveyMudd,HarveyMudd,0.00183675,8,0.076108739,0.358630264,0.083828576,43,31,0.395698925
+n12,The Science of Happiness,Social Sciences,11/06/2015,1~50,Introductory,UC Berkeley,UC Berkeley,0.001263433,10,0.096252889,0.387887888,0.083251235,24,22,0.329004329
+n347,Microsoft Exchange 2013 Fundamentals,Computer Science,03/17/2016,51~100,Introductory,Microsoft,Microsoft,0.00182403,9,0.107191854,0.376031053,0.082955946,60,33,0.382575758
+n493,Foundations of Data Analysis - Part 1: Statistics Using R,Math,10/05/2015,Closed,Introductory,UTAustin,UTAustin,0.002096858,7,0.669756197,0.4085398,0.082891298,62,49,0.736394558
+n236,"Saving Schools, Mini-Course 4: School Choice",Education & Teacher Training,09/01/2015,Closed,Introductory,Harvard,Harvard,0.001275774,14,0.138002549,0.376945525,0.081370585,29,21,0.323809524
+n616,Take Your Medicine: Developing New Drug Products,Health & Safety,06/23/2015,Closed,Introductory,UTAustin,UTAustin,0.001023582,0,0.074026165,0.372775373,0.081137968,21,16,0.308333333
+n191,Entrepreneurship 102: What can you do for your customer?,Business & Management,03/31/2015,Closed,Introductory,MIT,MIT,0.001326171,6,0.048776762,0.357142857,0.080488813,24,21,0.304761905
+n585,"Mechanical Behavior of Materials, Part 2: Stress Transformations, Beams, Columns, and Cellular Solids",Engineering,08/04/2015,Closed,Intermediate,MIT,MIT,0.001364133,10,0.069238442,0.367821547,0.080086065,28,22,0.380952381
+n403,An Introduction to Credit Risk Management,Business & Management,12/02/2015,1~50,Introductory,Delft,Delft,0.001824137,6,0.103384593,0.358464385,0.079750769,39,32,0.493951613
+n670,Introduction to Environmental Science,Environmental Studies,04/23/2015,Closed,Introductory,Dartmouth,Others,0.001185155,5,0.053389034,0.353075171,0.07918105,18,17,0.352941176
+n363,Introduction to Mobile Application Development using Android,Computer Science,12/29/2015,1~50,Intermediate,HKUST,HKUST,0.001373476,9,0.055662296,0.352112676,0.078742703,29,21,0.352380952
+n71,Agile Development Using Ruby on Rails - Basics,Computer Science,01/28/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.001797746,11,0.275498182,0.373134328,0.078625387,42,38,0.59886202
+n283,The Practitioner¡¯s Guide to Global Health - Part 3: Reflection,Medicine,11/16/2015,1~50,Advanced,BU,BU,0.002194694,0,0.417969293,0.399484536,0.078342624,56,48,0.634751773
+n428,Microsoft Exchange Server 2016 - 1: Infrastructure,Computer Science,04/13/2016,1~50,Introductory,Microsoft,Microsoft,0.001752662,9,0.109513306,0.378417969,0.07822794,53,32,0.405241935
+n494,Intellectual Property Law and Policy - Part 1: IP and Patent Laws,Law,10/22/2015,Closed,Introductory,Penn,Penn,0.001087919,10,0.056430277,0.357472325,0.078092975,20,17,0.272058824
+n308,Principles of Electric Circuits ?,Computer Science,12/23/2015,1~50,Intermediate,Tsinghua,Tsinghua,0.001209387,9,0.027913832,0.348158131,0.077910486,17,17,0.382352941
+n618,AP¢ç Biology - Part 1: The Cell,Biology & Life Sciences,08/04/2015,Closed,Introductory,Rice,Rice,0.001803539,8,0.11310144,0.380461463,0.076592334,58,33,0.481060606
+n397,Introduction to the Treatment of Urban Sewage,Engineering,07/16/2015,1~50,Introductory,Delft,Delft,0.001309557,5,0.081708985,0.369399428,0.076237831,28,22,0.372294372
+n473,Islamic Finance and Capital Markets,Economics & Finance,11/20/2015,Closed,Introductory,IRTI,Others,0.001737571,6,0.107307417,0.363679024,0.075383781,41,31,0.498924731
+n361,The Art of Poetry,Literature,12/10/2015,Closed,Introductory,BU,BU,0.001159835,14,0.012719108,0.31275222,0.075296382,14,13,0.358974359
+n139,Magnetic Materials and Devices,Engineering,03/18/2016,1~50,Introductory,MIT,MIT,0.001119357,8,0.046808821,0.352432924,0.075190129,21,16,0.375
+n359,Introduction to Operations Management,Business & Management,11/24/2015,51~100,Advanced,IIMB,IIMB,0.001113903,6,0.063678577,0.362827715,0.075064029,23,18,0.254901961
+n5,Project Management Techniques for Development Professionals,Business & Management,03/07/2016,1~50,Advanced,IDB,Others,0.001477986,6,0.122997883,0.374758221,0.074850263,29,27,0.492877493
+n455,International Business Environment and Global Strategy,Business & Management,12/29/2015,Closed,Introductory,IIMB,IIMB,0.001302075,1,0.165700437,0.379344102,0.074779808,24,24,0.648550725
+n6,Programming in R for Data Science,Data Analysis & Statistics,03/23/2016,1~50,Introductory,Microsoft,Microsoft,0.002070357,7,0.653217285,0.406184486,0.074045048,57,48,0.755319149
+n431,Microsoft Exchange Server 2016 - 4: Transport Services,Computer Science,04/13/2016,1~50,Introductory,Microsoft,Microsoft,0.001469298,9,0.077099521,0.364877589,0.073150271,46,25,0.45
+n265,"CLEP Information Systems and Computer Applications, Part 5: Social Implications",Computer Science,06/23/2015,1~50,Advanced,UPValencia,UPValencia,0.001612239,11,0.135350103,0.382905138,0.073017136,39,31,0.569892473
+n260,The Practitioner¡¯s Guide to Global Health-Part 2: Preparation and On The Ground,Medicine,10/22/2015,1~50,Advanced,BU,BU,0.002180692,0,0.419956272,0.403016121,0.072935108,57,48,0.633865248
+n547,Implementing Microsoft Windows Server Disks and Volumes,Computer Science,10/16/2015,Closed,Introductory,Microsoft,Microsoft,0.001511091,9,0.076080215,0.357472325,0.072728901,39,26,0.461538462
+n7,User Innovation: A Path to Entrepreneurship,Business & Management,04/03/2015,51~100,Introductory,MIT,MIT,0.001223869,6,0.074359115,0.360968794,0.072660371,20,20,0.252631579
+n549,China¡¯s Perspective on Climate Change,Energy & Earth Sciences,10/16/2015,Closed,Intermediate,Tsinghua,Tsinghua,0.001059905,5,0.049291321,0.350045167,0.071967535,19,16,0.4
+n422,Quantum Mechanics of Molecular Structures,Chemistry,03/02/2016,1~50,Introductory,UTokyo,Others,0.000909,8,0.014812712,0.307052298,0.071912659,12,10,0.244444444
+n489,Introduction to Differential Equations,Math,10/20/2015,Closed,Introductory,BU,BU,0.001140876,11,0.046293465,0.358962483,0.071904099,26,17,0.25
+n777,Quantum Mechanics and Quantum Computation,Computer Science,11/13/2013,Free,Introductory,UC Berkeley,UC Berkeley,0.001200143,8,0.068484501,0.349413886,0.071783444,22,19,0.461988304
+n702,Introduction to Public Speaking,Communication,01/30/2015,noInfo,Introductory,UWashington,UWashington,0.000997,1,0.050273867,0.357472325,0.07169402,15,15,0.2
+n72,"Ethical Leadership: Character, Civility, and Community",Philosophy & Ethics,08/27/2015,1~50,Introductory,BU,BU,0.001245243,5,0.052210514,0.355341586,0.071399861,22,19,0.30994152
+n328,AP¢ç Macroeconomics,Economics & Finance,02/25/2016,1~50,Intermediate,Davidson Next,Davidson Next,0.001110382,6,0.052532715,0.359461967,0.071087467,22,18,0.294117647
+n184,Early Christianity: The Letters of Paul,History,11/13/2013,Free,Introductory,Harvard,Harvard,0.001347413,4,0.024636067,0.335062689,0.070451896,19,18,0.31372549
+n721,Spirituality and Sensuality: Sacred Objects in Religious Life,Humanities,09/04/2014,Closed,Introductory,Hamilton,Others,0.000967,15,0.021822103,0.336810083,0.06993251,13,13,0.358974359
+n500,The Art of Structural Engineering: Bridges,Engineering,09/22/2015,Free,Advanced,Princeton,Others,0.000745,11,0.015760957,0.34006143,0.069828857,10,9,0.361111111
+n61,Stress Testing and Risk Regulation ? Part 2,Economics & Finance,03/07/2016,301~400,Intermediate,new-york Institute of Finance,new-york Institute of Finance,0.001133063,6,0.079805047,0.362827715,0.069498026,21,19,0.362573099
+n607,Programming in F#,Computer Science,08/18/2015,Closed,Introductory,Microsoft,Microsoft,0.001715068,11,0.25171727,0.371524449,0.069110538,43,36,0.66031746
+n112,Health Professional Teaching Skills ? Level 3 - Professionalism,Education & Teacher Training,03/29/2016,1~50,Intermediate,University of Toronto,University of Toronto,0.002107926,0,0.394687368,0.393201421,0.068987284,52,45,0.652525253
+n16,Introduction to Programming with Java Part 2: Writing Good Code,Computer Science,01/25/2016,1~50,Introductory,UC3M,UC3M,0.00192249,11,0.285836012,0.380088279,0.06851856,52,41,0.535365854
+n734,Introductory Physics ? Part 1: Mechanics and Waves,Physics,01/30/2014,Free,Introductory,SNU,SNU,0.00193459,8,0.100506685,0.357802401,0.067100709,45,34,0.531194296
+n66,Introduction to Banking and Financial Markets - I,Economics & Finance,04/07/2016,1~50,Introductory,IIMB,IIMB,0.001610172,6,0.106396272,0.367821547,0.067030513,38,29,0.507389163
+n568,A System View of Communications: From Signals to Packets (Part 2),Computer Science,03/18/2015,Closed,Introductory,HKUST,HKUST,0.001487866,11,0.130873981,0.382716049,0.066331364,34,28,0.64021164
+n633,"The Beauty and Joy of Computing (CS Principles), Part 1",Computer Science,09/02/2014,Closed,Intermediate,UC Berkeley,UC Berkeley,0.002089726,11,0.318439447,0.378602833,0.066214352,73,46,0.529468599
+n138,Marketing Analytics: Competitive Analysis and Market Segmentation,Business & Management,04/04/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.001528855,6,0.084614426,0.361980383,0.065417506,31,26,0.267692308
+n459,English Grammar and Style,Humanities,02/03/2016,Closed,Introductory,UQ,UQ,0.001177492,1,0.044052969,0.359295318,0.065058311,21,18,0.352941176
+n617,Social Learning for Social Impact,Social Sciences,07/15/2015,Free,Introductory,McGill,Others,0.00137549,5,0.112511478,0.378417969,0.065037169,26,24,0.373188406
+n122,Social Work Practice: Advocating Social Justice and Change,Social Sciences,02/29/2016,1~50,Intermediate,Michigan,Others,0.001112741,5,0.07972066,0.370458891,0.064791897,18,18,0.418300654
+n598,Teaching Historical Inquiry with Objects,Education & Teacher Training,02/19/2015,Closed,Introductory,Smithsonian,Others,0.000917,14,0.024109032,0.345982143,0.063813065,12,11,0.109090909
+n505,Sustainable Urban Development: Discover Advanced Metropolitan Solutions,Engineering,07/31/2015,Closed,Intermediate,DelftX&Wageningen,Others,0.001256199,5,0.062738403,0.367124586,0.063731329,24,20,0.347368421
+n259,eHealth ? Opportunities and Challenges,Computer Science,11/13/2015,Free,Intermediate,KI,KI,0.001015247,5,0.060965301,0.376396309,0.063025817,17,16,0.266666667
+n344,Developing Windows 10 Universal Apps - Part 1,Computer Science,03/16/2016,1~50,Introductory,Microsoft,Microsoft,0.00157625,9,0.058553675,0.348784878,0.062949575,36,26,0.375384615
+n707,Positive Behavior Support for Young Children,Communication,01/21/2015,noInfo,Introductory,UWashington,UWashington,0.00108741,10,0.044000815,0.35291439,0.062903735,16,16,0.508333333
+n30,China (Part 8): Creating Modern China: The Birth of a Nation,History,03/07/2016,51~100,Introductory,Harvard,Harvard,0.00110002,15,0.032716529,0.333333333,0.062895482,28,16,0.683333333
+n240,Data Analysis for Life Sciences 1: Statistics and R,Biology & Life Sciences,09/02/2015,Closed,Introductory,Harvard,Harvard,0.002171632,7,0.694667246,0.408109531,0.062308319,69,51,0.698823529
+n728,"Discrete Time Signals and Systems, Part 1: Time Domain",Engineering,01/07/2015,Closed,Introductory,Rice,Rice,0.001476459,11,0.124300518,0.382905138,0.06202112,38,28,0.645502646
+n224,The Book: Scrolls in the Age of the Book,Humanities,04/15/2015,Closed,Intermediate,Harvard,Harvard,0.001108234,4,0.034504658,0.324947589,0.061978109,16,16,0.658333333
+n463,Communicating Corporate Social Responsibility (CSR),Business & Management,12/22/2015,Closed,Introductory,Louvain,Louvain,0.001474183,1,0.185349879,0.385188867,0.061943866,28,28,0.5
+n185,Overview of Creating an edX Course,Education & Teacher Training,11/06/2014,Free,Intermediate,ed,ed,0.000943,5,0.019367232,0.337543554,0.061866143,12,12,0.363636364
+n402,The Chemistry of Life,Biology & Life Sciences,01/21/2016,1~50,Introductory,KyotoU,KyotoU,0.001317571,8,0.064111189,0.358298659,0.061823285,25,22,0.575757576
+n382,Intellectual Property Law and Policy - Part 2: Copyright and Trademark Laws,Law,10/22/2015,Closed,Introductory,Penn,Penn,0.00104343,10,0.056742699,0.368171021,0.061600944,18,16,0.358333333
+n239,"CLEP Information Systems and Computer Applications, Part 2: Hardware",Computer Science,06/23/2015,1~50,Introductory,UPValencia,UPValencia,0.001826482,11,0.202138975,0.384806356,0.061561438,47,38,0.522048364
+n586,International Politics in the Korean Peninsula ? Part 2,History,09/22/2015,Free,Intermediate,SNU,SNU,0.001726576,15,0.05216095,0.340959085,0.061251328,29,27,0.475783476
+n82,Leaders of Learning,Education & Teacher Training,11/13/2015,51~100,Intermediate,Harvard,Harvard,0.001143153,5,0.033945422,0.352432924,0.061115443,20,17,0.389705882
+n595,Food for Thought,Chemistry,07/16/2015,Closed,Advanced,McGill,Others,0.001807905,0,0.360554352,0.379158513,0.061001265,41,38,0.850640114
+n107,International Human Rights,Law,04/06/2016,1~50,Introductory,Louvain,Louvain,0.001254631,10,0.046049923,0.359461967,0.060990604,22,19,0.391812865
+n666,Building Cloud Apps with Microsoft Azure ? Part 3,Computer Science,04/15/2015,Closed,Intermediate,Microsoft,Microsoft,0.001391069,9,0.095339709,0.360632852,0.060968494,31,24,0.387681159
+n639,Introduction to Bioelectricity,Engineering,07/13/2015,Closed,Introductory,Purdue,Purdue,0.000947,11,0.040204347,0.340809147,0.060684878,14,14,0.252747253
+n647,Innovation Generation: How to Be Creative,Science,04/17/2015,Free,Introductory,UTHealthSPH,Others,0.001092058,6,0.030796605,0.35485348,0.060674033,19,16,0.316666667
+n194,Introduction to Aeronautical Engineering,Engineering,04/30/2015,Free,Intermediate,Delft,Delft,0.000595,5,0.007779594,0.307783956,0.06039445,5,5,0.3
+n477,Mastering Quantum Mechanics Part 1: Wave Mechanics,Physics,12/23/2015,Closed,Introductory,MIT,MIT,0.001295966,8,0.085342149,0.350045167,0.060295083,25,21,0.447619048
+n338,How to Code: Systematic Program Design - Part 3,Computer Science,02/03/2016,1~50,Intermediate,UBC,UBC,0.001201772,11,0.092464347,0.372238232,0.060038425,28,21,0.442857143
+n126,Intermediate Financial and Management Accounting,Business & Management,03/31/2016,noInfo,Advanced,ACCA,ACCA,0.002028512,6,0.146352909,0.376579203,0.059983853,56,39,0.488529015
+n574,Take Your Medicine: How to Be a Savvy Consumer,Health & Safety,06/23/2015,Closed,Introductory,UTAustin,UTAustin,0.001133941,0,0.083390205,0.356158088,0.059841518,21,18,0.320261438
+n742,Neuronal Dynamics - Computational Neuroscience of Single Neurons,Biology & Life Sciences,09/16/2014,Free,Introductory,EPFL,EPFL,0.000866,10,0.034130458,0.350996377,0.059746198,12,12,0.242424242
+n10,IELTS Academic Test Preparation,Communication,06/18/2015,51~100,Introductory,UQ,UQ,0.001183742,1,0.057344716,0.361305361,0.059435059,20,19,0.391812865
+n572,Preparing for the AP Calculus AB Exam ? Part 1: Derivatives,Math,10/09/2015,Closed,Intermediate,Rice,Rice,0.001163051,8,0.039621505,0.329787234,0.059225081,17,17,0.514705882
+n208,AP¢ç Physics: Challenging Concepts from Physics 1 & Physics 2,Physics,07/01/2015,1~50,Introductory,Davidson Next,Davidson Next,0.001586327,8,0.08140011,0.348001796,0.058911193,28,27,0.615384615
+n470,Introduction to Economics - Part 1: Microeconomics,Economics & Finance,01/29/2016,Closed,Introductory,SNU,SNU,0.001232106,6,0.062086788,0.365049458,0.05875153,22,20,0.273684211
+n438,AP¢ç Physics 1 - Part 4: Exam Prep,Physics,07/24/2015,Closed,Introductory,Rice,Rice,0.001757287,8,0.106782682,0.36643026,0.058605872,47,32,0.550403226
+n90,Nutrition and Health Part 3: Food Safety,Food & Nutrition,11/18/2015,1~50,Introductory,Wageningen,Wageningen,0.001850734,0,0.363205625,0.379715826,0.05823826,44,39,0.817813765
+n437,AP¢ç Biology - Part 5: Review and Exam Preparation,Biology & Life Sciences,08/04/2015,Closed,Introductory,Rice,Rice,0.00176784,8,0.121705298,0.378787879,0.058193546,60,33,0.501893939
+n519,Atomic and Optical Physics I ? Part 5: Coherence,Physics,08/31/2015,Closed,Introductory,MIT,MIT,0.001778852,8,0.08527143,0.347533632,0.058040691,46,30,0.56091954
+n544,Calculus 1B: Integration,Math,09/09/2014,Closed,Introductory,MIT,MIT,0.00108296,8,0.030494991,0.336517586,0.058030292,19,16,0.475
+n275,Embedded Systems - Shape The World,Computer Science,09/02/2015,1~50,Introductory,UTAustin,UTAustin,0.000999,9,0.032489551,0.342465753,0.057836325,16,15,0.523809524
+n320,Dog Origins,Biology & Life Sciences,02/08/2016,301~400,Introductory,ASU,ASU,0.00103184,10,0.039534767,0.342768686,0.057236281,22,14,0.659340659
+n157,AP¢ç Psychology - Part 1: What is Psychology?,Science,01/28/2016,1~50,Intermediate,UBC,UBC,0.000979,10,0.083843622,0.37804878,0.05717747,19,16,0.35
+n42,"English at Work in Asia: Job Applications, CVs and Cover Letters",Humanities,12/29/2015,1~50,Intermediate,HKPolyU,HKPolyU,0.000874,7,0.036336355,0.354366712,0.057148739,16,12,0.272727273
+n659,On Ramp to AP* Biology,Biology & Life Sciences,06/09/2015,Closed,Intermediate,Weston High School,Others,0.001362996,8,0.079334992,0.364362953,0.056590788,25,24,0.539855072
+n551,The Extremes of Life: Microbes and Their Diversity,Biology & Life Sciences,09/09/2015,Closed,Introductory,KyotoU,KyotoU,0.000953,0,0.019368029,0.327834179,0.056476969,12,12,0.348484848
+n327,Architecting Microsoft Azure Solutions,Computer Science,02/26/2016,51~100,Introductory,Microsoft,Microsoft,0.00146659,9,0.113026822,0.35485348,0.056125409,40,27,0.381766382
+n102,Deciphering Secrets: Unlocking the Manuscripts of Medieval Burgos (Spain),History,04/08/2016,1~50,Introductory,UC3M,UC3M,0.000988,4,0.019748367,0.31710311,0.05593434,15,13,0.282051282
+n668,Autonomous Mobile Robots,Computer Science,06/05/2015,Closed,Introductory,ETH,ETH,0.001101379,9,0.038158696,0.348784878,0.055758385,17,17,0.345588235
+n104,"Developing International Software, Part 3",Computer Science,04/04/2016,1~50,Intermediate,Microsoft,Microsoft,0.001042893,6,0.072019426,0.370105062,0.055739441,21,17,0.352941176
+n74,Cell Biology: Mitochondria,Biology & Life Sciences,03/09/2016,1~50,Introductory,Harvard,Harvard,0.001420741,8,0.07582577,0.366603595,0.055617141,28,24,0.550724638
+n130,"Hollywood: History, Industry, Art",Art & Culture,01/13/2016,1~50,Introductory,Penn,Penn,0.001142762,0,0.130058105,0.362318841,0.05551736,20,20,0.652631579
+n689,Building Cloud Apps with Microsoft Azure ? Part 2,Computer Science,04/14/2015,Closed,Advanced,Microsoft,Microsoft,0.001251503,9,0.095816729,0.36316776,0.055428618,35,22,0.402597403
+n293,Programming Basics,Computer Science,02/01/2016,Closed,Introductory,IITBombay,IITBombay,0.001925801,11,0.301931155,0.366603595,0.055362677,47,42,0.530778165
+n119,Optical Materials and Devices,Engineering,03/18/2016,1~50,Introductory,MIT,MIT,0.00106885,8,0.044343125,0.349571493,0.05508269,20,15,0.419047619
+n68,English at Work in Asia: Preparing for a Job Interview,Humanities,12/30/2015,1~50,Intermediate,HKPolyU,HKPolyU,0.001233197,1,0.050645056,0.35485348,0.055068209,25,19,0.444444444
+n695,Urban Water - Innovations for Environmental Sustainability,Environmental Studies,02/25/2015,Closed,Intermediate,UBC,UBC,0.001322784,5,0.078594461,0.365221489,0.054970808,25,22,0.411255411
+n269,Analyzing and Visualizing Data with Power BI,Data Analysis & Statistics,12/21/2015,1~50,Intermediate,Microsoft,Microsoft,0.001829995,7,0.637152608,0.40238837,0.054965811,44,43,0.908084164
+n688,Preparing for the AP* Computer Science A Exam ? Part 1,Computer Science,09/03/2014,Closed,Introductory,Cooper Union,Others,0.002005425,11,0.286127398,0.37134643,0.054750498,55,43,0.553709856
+n487,Quality of Life: Livability in Future Cities,Architecture,12/22/2015,Closed,Introductory,ETH,ETH,0.001026001,5,0.046856957,0.360632852,0.054479586,25,15,0.352380952
+n681,Building Cloud Apps with Microsoft Azure ? Part 1,Computer Science,05/14/2015,Closed,Intermediate,Microsoft,Microsoft,0.001262458,9,0.082721226,0.366257089,0.054259799,32,22,0.445887446
+n655,The Immune System: New Developments in Research - Part 1,Biology & Life Sciences,11/18/2014,Closed,Intermediate,OsakaU,Others,0.000884,8,0.050641409,0.351473923,0.054155692,16,13,0.192307692
+n373,Inclusive Leadership Training: Get Beyond Work-Life Balance,Business & Management,02/23/2016,1~50,Introductory,Catalyst,Others,0.001127146,5,0.063410853,0.360130112,0.053666043,22,18,0.496732026
+n316,Water and Wastewater Treatment Engineering: Physicochemical Technology,Environmental Studies,12/23/2015,1~50,Introductory,Tsinghua,Tsinghua,0.001269338,5,0.071195221,0.364877589,0.053489103,28,21,0.423809524
+n8,Introduction to Computer Science and Programming Using Python,Computer Science,04/11/2016,1~50,Introductory,MIT,MIT,0.002019386,11,0.314200226,0.373134328,0.053383867,52,44,0.534883721
+n371,Dog Perception and Cognition,Biology & Life Sciences,02/08/2016,301~400,Introductory,ASU,ASU,0.001028938,10,0.039763107,0.344597599,0.052921309,21,14,0.637362637
+n388,"Signals and Systems, Part 1",Engineering,03/10/2016,1~50,Introductory,IITBombay,IITBombay,0.001446948,11,0.142381086,0.383094414,0.052880612,39,28,0.656084656
+n758,"Robot Mechanics and Control, Part II",Computer Science,04/01/2014,Free,Introductory,SNU,SNU,0.000919,11,0.035131503,0.353236098,0.052667652,16,13,0.333333333
+n546,Predictive Analytics,Data Analysis & Statistics,10/08/2015,Closed,Introductory,IIMB,IIMB,0.001113536,7,0.153487183,0.358630264,0.052556288,23,20,0.384210526
+n173,Quantum Cryptography,Computer Science,04/08/2016,1~50,Intermediate,CaltechX&Delft,Others,0.000915,8,0.020373629,0.326453243,0.052475645,12,12,0.348484848
+n414,Introduction to Music Theory,Music,03/21/2016,1~50,Intermediate,Berklee,Others,0.001116636,15,0.037647259,0.35485348,0.052347153,17,17,0.558823529
+n158,Entrepreneurial Opportunities,Business & Management,11/23/2015,1~50,Intermediate,Adelaide,Adelaide,0.000937,6,0.038635143,0.359962843,0.052127979,15,14,0.230769231
+n760,Mechanics ReView,Engineering,04/16/2014,Free,Advanced,MIT,MIT,0.001090044,8,0.033970739,0.331763699,0.052034051,19,16,0.491666667
+n660,Teaching With Technology and Inquiry: An Open Course For Teachers,Education & Teacher Training,04/14/2015,Closed,Introductory,University of Toronto,University of Toronto,0.001018846,6,0.050262769,0.360465116,0.051338542,16,16,0.575
+n13,Data Analysis: Take It to the MAX(),Data Analysis & Statistics,12/03/2015,1~50,Introductory,Delft,Delft,0.001921705,7,0.644967253,0.399484536,0.050987996,55,45,0.844444444
+n39,Risk Management Tools and Practices,Economics & Finance,03/07/2016,301~400,Advanced,new-york Institute of Finance,new-york Institute of Finance,0.001497573,6,0.098895509,0.364362953,0.050970169,31,27,0.544159544
+n521,AP¢ç Biology - Part 3: Evolution and Diversity,Biology & Life Sciences,08/04/2015,Closed,Introductory,Rice,Rice,0.001644361,8,0.106423154,0.375848691,0.050831482,47,30,0.551724138
+n301,Pragmatic Randomized Controlled Trials in Health Care,Biology & Life Sciences,12/09/2015,noInfo,Intermediate,KI,KI,0.001085397,5,0.062002607,0.350045167,0.050829151,18,17,0.242647059
+n303,Health Professional Teaching Skills ? Level 1 ? Foundational,Education & Teacher Training,01/13/2016,1~50,Introductory,University of Toronto,University of Toronto,0.001916054,0,0.399715637,0.392405063,0.050614227,46,42,0.724738676
+n394,English for Journalists: Key Concepts,Communication,02/08/2016,1~50,Intermediate,UC Berkeley,UC Berkeley,0.001246095,1,0.05881044,0.360968794,0.050417058,29,20,0.4
+n534,Principles of Economics with Calculus,Business & Management,06/17/2015,Free,Intermediate,Caltech,Others,0.000828,6,0.030771907,0.353881279,0.05040055,12,12,0.378787879
+n383,Introduction to Real-Time Systems,Computer Science,03/01/2016,1~50,Introductory,IEEE,IEEE,0.001381174,11,0.142249155,0.389056225,0.050204391,27,27,0.672364672
+n664,Ignorance!,Humanities,05/01/2015,Closed,Introductory,ANU,ANU,0.000924,5,0.065335135,0.360632852,0.049626924,14,14,0.604395604
+n591,"Fundamentals of Nanoelectronics, Part B: Quantum Transport",Electronics,07/20/2015,Closed,Intermediate,Purdue,Purdue,0.000987,8,0.02285702,0.324132162,0.049626498,14,13,0.358974359
+n392,Introduction to Statistical Methods for Gene Mapping,Data Analysis & Statistics,04/06/2016,1~50,Intermediate,KyotoU,KyotoU,0.000889,7,0.128279848,0.353397173,0.049606352,17,15,0.371428571
+n25,China (Part 3): Cosmopolitan Tang: Aristocratic Culture,History,03/07/2016,51~100,Introductory,Harvard,Harvard,0.001359595,15,0.041839583,0.335643136,0.049019176,30,21,0.514285714
+n376,Behavioral Economics in Action,Business & Management,03/02/2016,1~50,Introductory,University of Toronto,University of Toronto,0.000849,6,0.040353362,0.354366712,0.048859521,14,13,0.269230769
+n601,Underactuated Robotics,Computer Science,09/22/2015,Closed,Introductory,MIT,MIT,0.000882,11,0.034315835,0.346136668,0.048605053,12,12,0.378787879
+n241,The Practitioner¡¯s Guide to Global Health - Part 1: The Big Picture,Medicine,09/14/2015,1~50,Introductory,BU,BU,0.002089189,0,0.410897751,0.398252826,0.04830741,54,46,0.684057971
+n219,The Book: Books in the Medieval Liturgy,Literature,06/30/2015,Closed,Introductory,Harvard,Harvard,0.001365958,4,0.037549968,0.330913749,0.047645665,31,20,0.547368421
+n73,Able-Minded - Mental Health and People with Intellectual Disability,Medicine,02/16/2016,51~100,Introductory,UQ,UQ,0.001999093,0,0.376736824,0.391611925,0.04743135,51,43,0.705426357
+n750,"Introduction to Philosophy: God, Knowledge and Consciousness",Ethics,06/11/2014,Free,Introductory,MIT,MIT,0.000833,10,0.020026709,0.343072156,0.047127219,12,11,0.363636364
+n600,Justice,Philosophy & Ethics,07/30/2015,Closed,Intermediate,Harvard,Harvard,0.001166661,10,0.02342627,0.338132635,0.046992991,19,16,0.325
+n645,Thermodynamics,Engineering,07/13/2015,Closed,Introductory,IITBombay,IITBombay,0.000965,10,0.029562272,0.345519394,0.046837901,14,14,0.274725275
+n188,Introduction to Actuarial Science,Economics & Finance,02/16/2016,1~50,Intermediate,ANU,ANU,0.000749,6,0.052258664,0.332760842,0.046762924,11,10,0.288888889
+n287,Circular Economy: An Introduction,Design,01/11/2016,1~50,Introductory,Delft,Delft,0.000912,5,0.037324832,0.356158088,0.046759211,14,13,0.435897436
+n578,Introduction to Managerial Economics,Business & Management,08/11/2015,Closed,Introductory,IIMB,IIMB,0.001180915,6,0.069760918,0.366603595,0.04672681,23,20,0.305263158
+n378,HTML5 Introduction,Computer Science,01/25/2016,1~50,Intermediate,W3C,Others,0.00088,9,0.044565576,0.351633394,0.046617989,19,13,0.320512821
+n770,Effective Thinking Through Mathematics,Math,11/13/2013,Free,Introductory,UTAustin,UTAustin,0.000971,8,0.027916452,0.346446133,0.046531718,14,14,0.461538462
+n24,China (Part 2): The Creation and End of Centralized Empire,History,03/07/2016,51~100,Introductory,Harvard,Harvard,0.001249762,15,0.032947375,0.3248114,0.04651846,28,18,0.562091503
+n629,"Science at the Polls: Biology for Voters, Part 1",Biology & Life Sciences,10/31/2014,Closed,Advanced,UC Berkeley,UC Berkeley,0.001163867,8,0.067210768,0.355178735,0.046200665,23,20,0.668421053
+n311,Chinese History From Warring States to the Tang Dynasty,History,12/30/2015,1~50,Introductory,Tsinghua,Tsinghua,0.001086321,15,0.054399398,0.355341586,0.04531374,17,17,0.617647059
+n426,Linear Differential Equations,Math,10/20/2015,1~50,Introductory,BU,BU,0.000957,11,0.075647139,0.355994488,0.045273896,23,15,0.238095238
+n332,Programming with C#,Computer Science,03/10/2016,51~100,Intermediate,Microsoft,Microsoft,0.001592195,11,0.249626415,0.369575584,0.045267957,44,34,0.737967914
+n571,Molecular Biology ? Part 2: Transcription and Transposition,Biology & Life Sciences,08/11/2015,Closed,Advanced,MIT,MIT,0.001348456,8,0.062389002,0.347377857,0.04431167,24,22,0.601731602
+n769,Introduction to Statistics: Descriptive Statistics,Math,11/13/2013,Free,Intermediate,UC Berkeley,UC Berkeley,0.000948,7,0.127075887,0.348001796,0.044170231,18,15,0.371428571
+n146,Introduction to Banking and Financial Markets - II,Economics & Finance,04/29/2016,1~50,Intermediate,IIMB,IIMB,0.001737569,6,0.111426306,0.363849765,0.044025052,41,32,0.506048387
+n129,Hinduism Through Its Scriptures,Humanities,02/05/2016,1~50,Intermediate,Harvard,Harvard,0.001119588,4,0.016381595,0.325220311,0.043865485,19,14,0.406593407
+n108,Introduction to Spark,Data Analysis & Statistics,02/08/2016,1~50,Intermediate,UC Berkeley,UC Berkeley,0.001123969,7,0.1256701,0.360130112,0.043550029,22,20,0.363157895
+n52,"Visualizing Postwar Tokyo, Part 2",Social Sciences,04/21/2016,1~50,Intermediate,UTokyo,Others,0.000959,5,0.042225437,0.326866301,0.043533466,12,11,0.4
+n775,Our Energetic Earth,Energy & Earth Sciences,11/13/2013,Free,Intermediate,University of Toronto,University of Toronto,0.00105501,5,0.034830528,0.342314488,0.043393339,16,15,0.323809524
+n117,Pre-University Calculus,Math,03/11/2016,1~50,Introductory,Delft,Delft,0.001229221,8,0.042404976,0.347377857,0.043356147,27,19,0.50877193
+n453,Cognitive Neuroscience Robotics ? Part A,Engineering,10/22/2015,Closed,Intermediate,OsakaU,Others,0.001040826,10,0.033052327,0.34368071,0.043158467,19,15,0.361904762
+n86,Advancing Learning Through Evidence-Based STEM Teaching,Education & Teacher Training,04/20/2016,noInfo,Introductory,BU,BU,0.000898,0,0.072495676,0.367996201,0.043012869,15,14,0.285714286
+n675,Global Markets and Personal Impacts,Communication,03/24/2015,Free,Intermediate,UWashington,UWashington,0.000789,6,0.040178417,0.351155415,0.042843821,11,11,0.345454545
+n317,Astrophysics: Exploring Exoplanets,Physics,02/10/2016,1~50,Introductory,ANU,ANU,0.001098448,8,0.017565009,0.329366766,0.04185021,28,13,0.474358974
+n164,International Law,Law,04/20/2016,1~50,Advanced,Louvain,Louvain,0.001033627,10,0.028380419,0.348001796,0.041797574,18,15,0.333333333
+n450,Chinese Thought: Ancient Wisdom Meets Modern Science - Part 2,Art & Culture,12/23/2015,Closed,Introductory,UBC,UBC,0.001383362,15,0.043247696,0.348001796,0.041670855,25,21,0.5
+n134,Implementation and Evaluation of Educational Technology,Education & Teacher Training,03/16/2016,1~50,Intermediate,MIT,MIT,0.00100326,5,0.062987017,0.374215355,0.041640018,18,16,0.35
+n21,First Nights: Monteverdi¡¯s L¡¯Orfeo and the Birth of Opera,Music,03/09/2016,1~50,Introductory,Harvard,Harvard,0.001150274,15,0.036712929,0.345365419,0.041606626,19,17,0.558823529
+n18,Mastering Quantum Mechanics Part 3: Entanglement and Angular Momentum,Physics,06/02/2014,1~50,Introductory,MIT,MIT,0.001296075,8,0.045461627,0.336810083,0.041504141,23,20,0.463157895
+n514,A System View of Communications: From Signals to Packets (Part 3),Computer Science,03/18/2015,Closed,Intermediate,HKUST,HKUST,0.001401703,11,0.130404714,0.381397638,0.041383185,32,27,0.689458689
+n641,Introduction to Oil Country Tubular Goods (OCTG),Engineering,03/17/2015,Free,Intermediate,TenarisUniversity,Others,0.000529,6,0.006630888,0.300271213,0.040865502,6,4,0.166666667
+n560,"Computing: Art, Magic, Science - Part II",Computer Science,08/20/2015,Closed,Introductory,ETH,ETH,0.001402645,11,0.236774821,0.356485741,0.040819672,30,30,0.868965517
+n535,Jane Eyre by Bronte: BerkeleyX Book Club,Humanities,01/15/2015,Closed,Introductory,UC Berkeley,UC Berkeley,0.001517976,4,0.051908805,0.337985172,0.040576605,33,23,0.549407115
+n594,Debt Sustainability Analysis,Economics & Finance,04/07/2014,Free,Introductory,IMF,IMF,0.001015022,5,0.061082837,0.360297536,0.040469271,17,16,0.325
+n776,Fundamentals of Clinical Trials,Health & Safety,11/13/2013,Free,Introductory,Harvard,Harvard,0.001061887,0,0.07609577,0.353075171,0.040049259,17,17,0.375
+n398,Object-Oriented Programming,Computer Science,02/01/2016,Closed,Introductory,IITBombay,IITBombay,0.001419371,11,0.235598354,0.35962877,0.040023031,35,30,0.871264368
+n423,The Fundamentals of Neuroscience Part 3: The Brain,Biology & Life Sciences,04/19/2016,noInfo,Advanced,Harvard,Harvard,0.000844,10,0.036316727,0.347533632,0.039996432,17,12,0.333333333
+n262,Data Analysis for Life Sciences 3: Statistical Inference and Modeling for High-throughput Experiments,Biology & Life Sciences,09/24/2015,Closed,Intermediate,Harvard,Harvard,0.00202505,7,0.673881546,0.402806653,0.039924351,60,48,0.767730496
+n715,"How Stuff Moves, Part 2: Angular Motion",Physics,01/12/2015,Closed,Introductory,HarveyMudd,HarveyMudd,0.001405395,8,0.05894397,0.350520127,0.039641983,34,23,0.4743083
+n329,Statistical Thinking for Data Science and Analytics,Data Analysis & Statistics,01/27/2016,51~100,Introductory,Columbia,Columbia,0.002007956,7,0.654128462,0.401554404,0.039413016,60,47,0.798334875
+n198,Yield Curve Analysis,Economics & Finance,04/28/2015,500<<,Introductory,new-york Institute of Finance,new-york Institute of Finance,0.000852,6,0.042883289,0.336225597,0.039286768,14,12,0.46969697
+n697,Introduction to Metrics for Smart Cities,Engineering,01/29/2015,Closed,Introductory,IEEE,IEEE,0.00093,5,0.043130416,0.351633394,0.039188206,21,13,0.358974359
+n498,Sensing Planet Earth ? From Core to Outer Space,Energy & Earth Sciences,11/20/2015,Closed,Introductory,Chalmers,Others,0.000762,5,0.038762715,0.352272727,0.039179451,10,10,0.311111111
+n85,A Hands-on Introduction to Engineering Simulations,Engineering,02/11/2016,1~50,Introductory,Cornell,Cornell,0.000683,11,0.03889185,0.358630264,0.038996832,9,9,0.166666667
+n372,Future Cities,Architecture,03/04/2016,1~50,Introductory,ETH,ETH,0.00114532,5,0.072355416,0.359295318,0.038830159,28,18,0.424836601
+n298,Supply Chain Fundamentals,Business & Management,10/06/2015,Closed,Intermediate,MIT,MIT,0.001419705,6,0.104303029,0.366950758,0.038828309,43,26,0.507692308
+n304,The Einstein Revolution,History,01/11/2016,Closed,Introductory,Harvard,Harvard,0.00140611,8,0.074324881,0.338723776,0.038682542,24,23,0.833992095
+n91,Programming in Scratch,Computer Science,02/04/2016,1~50,Advanced,HarveyMudd,HarveyMudd,0.001892584,11,0.282072238,0.369399428,0.03825929,49,41,0.6
+n389,"Signals and Systems, Part 2",Engineering,03/10/2016,1~50,Introductory,IITBombay,IITBombay,0.001399878,11,0.135873001,0.385380408,0.038106908,39,27,0.698005698
+n0,Introduction to Computer Science,Computer Science,11/13/2013,51~100,Advanced,Harvard,Harvard,0.001619718,11,0.245558847,0.367647059,0.037574543,37,34,0.711229947
+n271,Data Analysis for Life Sciences 4: High-Dimensional Data Analysis,Biology & Life Sciences,09/25/2015,Closed,Intermediate,Harvard,Harvard,0.001985499,7,0.669771252,0.403225806,0.037554038,60,47,0.792784459
+n330,"Career Edge: Resume, Networking and Interview Skills",Business & Management,10/26/2015,1~50,Introductory,Fullbridge,Fullbridge,0.000882,7,0.036740222,0.346601073,0.037537954,19,12,0.348484848
+n454,Innovation and IT Management,Business & Management,10/22/2015,Closed,Advanced,IIMB,IIMB,0.001125152,9,0.081574631,0.367124586,0.037408408,20,19,0.444444444
+n583,User Experience (UX) Design: Human Factors and Culture in Design ,Art & Culture,07/21/2015,Closed,Intermediate,Tsinghua,Tsinghua,0.001136738,6,0.061336164,0.367821547,0.037168249,23,19,0.50877193
+n169,Industrial Biotechnology,Biology & Life Sciences,03/11/2016,1~50,Intermediate,Delft,Delft,0.001079861,5,0.048278929,0.353881279,0.03714824,20,16,0.5
+n325,Introduction to C++,Computer Science,02/26/2016,51~100,Introductory,Microsoft,Microsoft,0.0016308,11,0.256848203,0.368871966,0.03701911,40,35,0.712605042
+n527,English Grammar and Essay Writing,Communication,09/22/2014,Free,Introductory,UC Berkeley,UC Berkeley,0.001344651,1,0.04763166,0.35179301,0.037001945,55,21,0.461904762
+n261,Career Edge: Communication and Teamwork,Business & Management,10/26/2015,1~50,Advanced,Fullbridge,Fullbridge,0.00084,7,0.035713031,0.339614373,0.036765835,15,11,0.4
+n154,Introduction to Business Strategy,Business & Management,01/25/2016,51~100,Advanced,IIMB,IIMB,0.001407527,1,0.169898709,0.375848691,0.036742507,29,27,0.555555556
+n523,Implementing DNS in Microsoft Windows Server,Computer Science,12/02/2015,Closed,Intermediate,Microsoft,Microsoft,0.001346311,9,0.061491366,0.345519394,0.036714942,38,23,0.509881423
+n584,Introduction to Functional Programming,Computer Science,06/26/2015,Closed,Intermediate,Delft,Delft,0.001605167,11,0.247250625,0.366084081,0.036302974,41,34,0.739750446
+n57,HTML5 Part 1: HTML5 Coding Essentials and Best Practices,Computer Science,02/04/2016,51~100,Introductory,W3C,Others,0.000835,9,0.035951068,0.343224092,0.036145924,16,12,0.303030303
+n430,Microsoft Exchange Server 2016 - 3: Mailbox Databases,Computer Science,04/13/2016,1~50,Introductory,Microsoft,Microsoft,0.001283217,9,0.069021937,0.351473923,0.035893269,37,21,0.571428571
+n216,Blended Learning with edX,Education & Teacher Training,09/09/2015,noInfo,Introductory,ed,ed,0.000956,5,0.067695668,0.344597599,0.035223085,14,14,0.263736264
+n199,Introduction to Biology - The Secret of Life,Biology & Life Sciences,05/01/2015,noInfo,Introductory,MIT,MIT,0.001263471,8,0.061861756,0.350361664,0.034997008,23,21,0.638095238
+n105,Fundamentals of Six Sigma: Quality Engineering and Management,Business & Management,12/09/2015,1~50,Introductory,TUM,Others,0.001225586,6,0.090665526,0.365566038,0.03497247,22,22,0.614718615
+n53,Cellular Solids Part 3: Applications in Nature,Engineering,12/01/2015,1~50,Introductory,MIT,MIT,0.000901,5,0.016454373,0.326453243,0.034928715,12,11,0.345454545
+n515,Introduction to Applied Biostatistics: Statistics for Medical Research,Data Analysis & Statistics,10/22/2015,Closed,Intermediate,OsakaU,Others,0.000734,0,0.036838554,0.342617153,0.034830403,11,10,0.288888889
+n524,Introduction to Drinking Water Treatment,Engineering,07/16/2015,Closed,Introductory,Delft,Delft,0.001097419,5,0.057068229,0.343833185,0.034399197,21,17,0.492647059
+n50,Sustainable Soil Management: Soil for life,Environmental Studies,02/12/2016,1~50,Intermediate,Wageningen,Wageningen,0.001046522,5,0.033476225,0.347066726,0.034354945,15,15,0.428571429
+n736,Forests and Livelihoods in Developing Countries,Environmental Studies,10/14/2014,Free,Introductory,UBC,UBC,0.000758,6,0.026266716,0.335062689,0.034343927,12,10,0.222222222
+n504,Proteins: Biology's Workforce,Biology & Life Sciences,12/22/2015,Closed,Intermediate,Rice,Rice,0.000869,8,0.025084707,0.338280227,0.034291519,15,12,0.272727273
+n211,Office 365: Managing Identities and Services with Hands-On Labs,Computer Science,08/05/2015,101~200,Introductory,Microsoft,Microsoft,0.001129203,9,0.072893603,0.366777094,0.034285871,23,19,0.497076023
+n589,War for the Greater Middle East,History,05/26/2015,Closed,Intermediate,BU,BU,0.000912,14,0.010324557,0.29853621,0.034236968,10,10,0.377777778
+n99,Marketing Analytics: Marketing Measurement Strategy,Business & Management,04/04/2016,51~100,Intermediate,UC Berkeley,UC Berkeley,0.001053985,6,0.056189907,0.352432924,0.034156401,18,16,0.325
+n226,The Book: The Medieval Book of Hours: Art and Devotion in the Later Middle Ages,Literature,06/29/2015,Closed,Introductory,Harvard,Harvard,0.001342339,4,0.038837778,0.330490405,0.034121704,32,20,0.557894737
+n621,Epidemics,Health & Safety,01/09/2015,Free,Intermediate,HKU,Others,0.000831,11,0.069413353,0.355016033,0.03398176,13,13,0.397435897
+n148,"Marketing Analytics: Products, Distribution and Sales",Business & Management,04/04/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.000893,6,0.034200189,0.340959085,0.03379607,14,13,0.461538462
+n509,Introduction to Venture Capital: How to Get Money for your Startup,Business & Management,11/06/2015,Closed,Intermediate,RWTH,Others,0.000807,6,0.030262852,0.331338179,0.03377768,12,11,0.309090909
+n215,Learn Spanish: Basic Spanish for English Speakers,Education & Teacher Training,05/20/2015,1~50,Intermediate,UPValencia,UPValencia,0.000985,11,0.070725553,0.338132635,0.033700288,17,16,0.45
+n749,AnatomyX: Musculoskeletal Cases,Biology & Life Sciences,04/15/2014,Free,Intermediate,Harvard,Harvard,0.00088,0,0.074830113,0.34475089,0.033568111,13,12,0.439393939
+n69,Mobile Application Experiences Part 5: Reporting Research Findings,Computer Science,01/08/2016,1~50,Introductory,MIT,MIT,0.001027906,9,0.051443888,0.351155415,0.033376652,32,16,0.55
+n461,Mobile Application Experiences Part 2: Mobile App Design,Computer Science,01/08/2016,Closed,Intermediate,MIT,MIT,0.001036675,9,0.030712277,0.328250741,0.032901327,31,15,0.619047619
+n520,Natural Disasters,Energy & Earth Sciences,11/24/2015,Closed,Introductory,McGill,Others,0.000874,5,0.02398952,0.342163355,0.032660018,13,11,0.363636364
+n19,Shakespeare on the Page and in Performance: Young Love,Literature,03/24/2016,1~50,Introductory,Wellesley,Wellesley,0.000674,9,0.021850381,0.316973415,0.032653334,9,7,0.238095238
+n599,Organ Transplantation - Ethical and Legal Challenges,Law,06/23/2015,Closed,Introductory,UAM,Others,0.000892,0,0.058285581,0.360632852,0.032491893,15,14,0.450549451
+n464,Energy Subsidy Reform,Economics & Finance,04/10/2015,Free,Intermediate,IMF,IMF,0.00074,14,0.024742769,0.344904317,0.032332359,10,10,0.266666667
+n233,"Saving Schools, Mini-Course 1: History and Politics of U.S. Education",Education & Teacher Training,09/01/2015,Closed,Introductory,Harvard,Harvard,0.000953,14,0.077204668,0.355504587,0.032272404,21,14,0.505494505
+n227,M&A Professional Certificate Part 4 ? Free Cash Flow Modeling,Economics & Finance,06/30/2015,201~300,Intermediate,new-york Institute of Finance,new-york Institute of Finance,0.000918,6,0.033388988,0.332190313,0.032040667,29,13,0.525641026
+n124,Accountant in Business,Business & Management,03/31/2016,51~100,Intermediate,ACCA,ACCA,0.001286297,1,0.17978302,0.375666505,0.031928781,30,25,0.626666667
+n587,Introduction to Italian Opera,Music,07/01/2015,Closed,Intermediate,Dartmouth,Others,0.001171578,15,0.043111561,0.348001796,0.031690918,21,18,0.496732026
+n165,Exploring Humans¡¯ Space: An Introduction to Geographicity,Social Sciences,02/05/2016,1~50,Intermediate,EPFL,EPFL,0.000794,15,0.016073855,0.338871885,0.031689513,10,10,0.355555556
+n266,The Ancient Greek Hero in 24 Hours,Humanities,11/13/2015,Closed,Intermediate,Harvard,Harvard,0.000854,4,0.020684217,0.337249782,0.031675407,11,11,0.454545455
+n743,"Poetry in America: Nature and Nation, 1700-1850",Literature,07/21/2014,Free,Introductory,Harvard,Harvard,0.000945,14,0.009051489,0.29311649,0.031582113,17,10,0.466666667
+n656,Communicating Strategically,Communication,06/03/2015,Closed,Introductory,Purdue,Purdue,0.000852,1,0.062412246,0.352753755,0.031521848,15,13,0.269230769
+n674,Paradox and Infinity,Philosophy & Ethics,04/30/2015,Closed,Intermediate,MIT,MIT,0.000694,15,0.023305311,0.345673506,0.031112561,9,9,0.388888889
+n213,M&A Professional Certificate Part 2 ? Concepts and Theories: Advanced Topics,Economics & Finance,06/30/2015,201~300,Intermediate,new-york Institute of Finance,new-york Institute of Finance,0.001045518,6,0.058353181,0.338132635,0.030984365,34,17,0.529411765
+n748,Shakespeare: On the Page and in Performance,History,11/13/2013,Free,Intermediate,Wellesley,Wellesley,0.000796,9,0.009176953,0.312626059,0.03072176,11,8,0.321428571
+n120,Dubliners by Joyce: BerkeleyX Book Club,Humanities,11/10/2015,1~50,Introductory,UC Berkeley,UC Berkeley,0.001024673,4,0.048161522,0.342012357,0.030695544,15,15,0.638095238
+n399,Principles of Electronic Biosensors,Electronics,11/02/2015,Closed,Introductory,Purdue,Purdue,0.000731,9,0.021844369,0.328668363,0.030578234,8,8,0.285714286
+n281,Italian Language and Culture: Intermediate,Language,12/09/2015,1~50,Intermediate,Wellesley,Wellesley,0.000995,15,0.03080728,0.340360123,0.030540817,21,15,0.361904762
+n131,Marketing Analytics: Price and Promotion Analytics,Business & Management,04/04/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.000971,7,0.133503268,0.354204753,0.030089498,17,17,0.455882353
+n267,Advanced Introductory Classical Mechanics,Physics,11/20/2015,Free,Introductory,MIT,MIT,0.001705175,8,0.091159626,0.350203344,0.030083105,34,30,0.64137931
+n210,Teaching with Davidson Next,Education & Teacher Training,07/23/2015,1~50,Introductory,Davidson Next,Davidson Next,0.000865,0,0.061911126,0.350045167,0.029855682,13,13,0.358974359
+n683,Introduction to Bootstrap ? A Tutorial,Computer Science,05/14/2015,Closed,Intermediate,Microsoft,Microsoft,0.000917,9,0.028608324,0.334195774,0.02976128,15,13,0.333333333
+n526,"Engineering Software as a Service (Saas), Part 2",Computer Science,08/27/2015,1~50,Introductory,UC Berkeley,UC Berkeley,0.000825,11,0.035315352,0.340360123,0.029067979,17,12,0.424242424
+n735,Poetry in America: Whitman,Literature,10/21/2014,Free,Introductory,Harvard,Harvard,0.001059156,14,0.014627148,0.308641975,0.02901356,21,12,0.621212121
+n391,Poetry in America: Modernism,Art & Culture,12/21/2015,Closed,Advanced,Harvard,Harvard,0.001059156,14,0.014627148,0.308641975,0.02901356,15,12,0.621212121
+n37,Basic Mandarin Chinese ? Level 2,Language,03/24/2016,1~50,Advanced,Mandarin,Others,0.00111046,15,0.039162831,0.337103088,0.028960919,19,17,0.610294118
+n103,Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing,Biology & Life Sciences,04/11/2016,1~50,Introductory,MIT,MIT,0.000754,8,0.025132669,0.341259357,0.028960416,20,10,0.488888889
+n345,Developing Windows 10 Universal Apps - Part 2,Computer Science,03/16/2016,1~50,Intermediate,Microsoft,Microsoft,0.001196403,9,0.041524433,0.336225597,0.028799776,27,19,0.502923977
+n14,Introduction to Python for Data Science,Data Analysis & Statistics,02/19/2016,1~50,Advanced,Microsoft,Microsoft,0.001929269,7,0.662425005,0.399484536,0.0287125,48,46,0.81352657
+n204,Electronic Interfaces: Bridging the Physical and Digital Worlds,Electronics,05/18/2015,Closed,Intermediate,UC Berkeley,UC Berkeley,0.000711,9,0.010342612,0.315168768,0.028703855,9,8,0.25
+n452,Call of the Wild by London: BerkeleyX Book Club,Humanities,01/15/2015,Closed,Introductory,UC Berkeley,UC Berkeley,0.0011303,4,0.040306137,0.332332762,0.028648506,18,16,0.6
+n159,Macroeconomic Forecasting,Economics & Finance,03/15/2016,1~50,Introductory,IMF,IMF,0.000919,6,0.083011334,0.363508443,0.028620324,16,15,0.342857143
+n75,Electronic Materials and Devices,Engineering,03/18/2016,1~50,Introductory,MIT,MIT,0.000793,8,0.033183916,0.340509666,0.028526979,12,10,0.533333333
+n733,"Electricity & Magnetism, Part 1",Physics,12/15/2014,Closed,Introductory,Rice,Rice,0.000906,9,0.01926338,0.312878482,0.028493898,14,11,0.363636364
+n536,Introduction to Feedback Control Theory,Engineering,12/09/2015,noInfo,Introductory,MIT,MIT,0.000891,11,0.065838537,0.361473881,0.028452926,14,14,0.384615385
+n206,AP¢ç Calculus: Challenging Concepts from Calculus AB & Calculus BC,Math,07/01/2015,1~50,Introductory,Davidson Next,Davidson Next,0.001100689,8,0.049285162,0.346136668,0.028447701,23,17,0.492647059
+n501,Culture of Services: New Perspective on Customer Relations,Business & Management,11/23/2015,Closed,Advanced,KyotoU,KyotoU,0.000758,9,0.030677781,0.341861491,0.028349231,11,11,0.381818182
+n671,Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work,Communication,03/30/2015,Closed,Intermediate,MIT,MIT,0.000628,8,0.020821782,0.323725982,0.028027867,6,6,0.133333333
+n632,Introduction to Solid State Chemistry,Chemistry,08/05/2015,Closed,Advanced,MIT,MIT,0.001109525,8,0.031748023,0.320778146,0.027965525,19,16,0.391666667
+n497,Mobile Application Experiences Part 1: From a Domain to an App Idea,Computer Science,12/21/2015,Closed,Introductory,MIT,MIT,0.001253985,9,0.044226205,0.340959085,0.027963695,39,20,0.468421053
+n429,Microsoft Exchange Server 2016 - 2: Client Access Services,Computer Science,04/13/2016,1~50,Intermediate,Microsoft,Microsoft,0.001283232,9,0.072222386,0.357637287,0.027727107,39,22,0.506493506
+n732,Innovation and Commercialization,Business & Management,09/11/2014,Closed,Intermediate,MIT,MIT,0.000751,6,0.019291175,0.326315789,0.027596915,10,10,0.466666667
+n160,The Science of Learning--What Every Teacher Should Know,Education & Teacher Training,01/08/2016,1~50,Introductory,TeachersCollege,Others,0.000944,0,0.079222459,0.347222222,0.027438208,16,15,0.39047619
+n554,Philosophy: Minds and Machines,Philosophy & Ethics,07/24/2015,Closed,Introductory,MIT,MIT,0.000859,10,0.016254628,0.330772514,0.02729344,12,11,0.436363636
+n153,Reclaiming Broken Places: Introduction to Civic Ecology,Biology & Life Sciences,02/18/2016,1~50,Introductory,Cornell,Cornell,0.000843,5,0.026943258,0.345982143,0.027262181,11,11,0.272727273
+n297,Flight Vehicle Aerodynamics,Engineering,09/22/2015,Free,Introductory,MIT,MIT,0.000564,9,0.004538304,0.277877375,0.027228133,4,4,0.5
+n22,China (Part 1): Political and Intellectual Foundations: From the Sage Kings to Confucius and the Legalists,History,03/07/2016,51~100,Introductory,Harvard,Harvard,0.001117467,15,0.030068652,0.324539363,0.027124186,26,16,0.683333333
+n263,Preparing for the AP* Chemistry Exam ? Part 1,Chemistry,12/22/2015,Closed,Intermediate,Cooper Union,Others,0.000864,8,0.035740397,0.333046841,0.02709783,21,12,0.393939394
+n264,Preparing for the AP* Chemistry Exam ? Part 2,Chemistry,12/22/2015,Closed,Introductory,Cooper Union,Others,0.000864,8,0.035740397,0.333046841,0.02709783,21,12,0.393939394
+n142,Algorithms,Computer Science,02/01/2016,1~50,Introductory,IITBombay,IITBombay,0.000775,7,0.043256454,0.322782174,0.026881292,12,10,0.222222222
+n713,"Discrete Time Signals and Systems, Part 2: Frequency Domain",Engineering,01/07/2015,Closed,Intermediate,Rice,Rice,0.000732,11,0.0417742,0.345827755,0.026741232,20,11,0.381818182
+n745,Representations of HIV/AIDS,Biology & Life Sciences,12/18/2013,Closed,Intermediate,Davidson,Davidson,0.000628,8,0.011570728,0.327004219,0.026740102,7,7,0.19047619
+n341,Introduction to Linux,Computer Science,03/16/2016,51~100,Introductory,LinuxFoundation,Others,0.000533,9,0.011068055,0.30987605,0.026523555,5,5,0.1
+n662,"Sustainability, Resilience, and Society",Social Sciences,04/14/2015,noInfo,Advanced,UWashington,UWashington,0.000982,5,0.04902973,0.360968794,0.026494084,15,15,0.352380952
+n663,Creative Problem Solving and Decision Making,Business & Management,04/30/2015,Closed,Introductory,Delft,Delft,0.000687,11,0.023905777,0.314656922,0.026482236,8,8,0.25
+n334,Working in Teams: A Practical Guide,Social Sciences,02/09/2016,51~100,Intermediate,UQ,UQ,0.000646,7,0.011983658,0.323590814,0.026214058,7,7,0.19047619
+n64,Foundations of Data Structures,Computer Science,02/01/2016,1~50,Intermediate,IITBombay,IITBombay,0.001846749,7,0.647451638,0.400931195,0.025802777,47,44,0.875264271
+n80,Transitioning to Microsoft Exchange Server 2016,Computer Science,04/15/2016,1~50,Introductory,Microsoft,Microsoft,0.001044617,9,0.043872564,0.32345576,0.025593117,30,17,0.705882353
+n567,"Science at the Polls: Biology for Voters, Part 2",Biology & Life Sciences,05/30/2015,Closed,Introductory,UC Berkeley,UC Berkeley,0.001089604,8,0.058875094,0.348471223,0.025522627,21,18,0.790849673
+n133,What Now? Emerging Technologies and Their Practical Application in K12 Teaching and Learning.,Education & Teacher Training,12/22/2015,1~50,Introductory,UTArlington,Others,0.000902,5,0.047647814,0.355504587,0.025504444,14,14,0.395604396
+n251,First Nights: Handel¡¯s Messiah and Baroque Oratorio,Music,08/19/2015,Closed,Intermediate,Harvard,Harvard,0.001061755,15,0.028392378,0.333046841,0.025413282,19,15,0.666666667
+n643,Molecular Biology - Part 1: DNA Replication and Repair,Biology & Life Sciences,07/10/2015,Closed,Introductory,MIT,MIT,0.000988,8,0.02690377,0.326453243,0.02540593,19,14,0.406593407
+n274,Developing Windows 10 Universal Apps - Part 3,Computer Science,01/20/2016,1~50,Introductory,Microsoft,Microsoft,0.000928,9,0.030809862,0.329366766,0.0252073,20,14,0.648351648
+n390,Solving Public Policy Problems: UC Berkeley¡¯s Eightfold Path,Social Sciences,04/06/2016,1~50,Advanced,UC Berkeley,UC Berkeley,0.000864,6,0.078725078,0.365566038,0.024785836,14,14,0.373626374
+n577,"Fundamentals of Immunology, Part 1",Biology & Life Sciences,07/27/2015,Closed,Introductory,Rice,Rice,0.000912,8,0.032592542,0.341710758,0.024540977,19,13,0.41025641
+n727,artificial-intelligence,Computer Science,12/29/2014,Free,Introductory,UC Berkeley,UC Berkeley,0.000725,11,0.056648332,0.34475089,0.024496736,11,11,0.381818182
+n657,Media LIT: Overcoming Information Overload,Communication,04/24/2015,Closed,Introductory,ASU,ASU,0.000721,9,0.029154112,0.348784878,0.024234076,10,10,0.333333333
+n78,Microsoft Exchange Server 2016 - 5: Hybrid Topologies with Office 365,Computer Science,04/14/2016,1~50,Introductory,Microsoft,Microsoft,0.000944,9,0.050998047,0.342163355,0.02411807,26,15,0.580952381
+n401,Implementing Real-Time Analysis with Hadoop in Azure HDInsight,Computer Science,04/11/2016,1~50,Introductory,Microsoft,Microsoft,0.000817,7,0.074638836,0.331196581,0.023422974,17,13,0.487179487
+n690,Poetry in America: The Civil War and Its Aftermath,Literature,03/16/2015,Closed,Intermediate,Harvard,Harvard,0.001202452,14,0.010537699,0.290806754,0.023378168,23,13,0.461538462
+n87,Classroom Strategies for Inquiry-Based Learning,Education & Teacher Training,11/13/2015,1~50,Introductory,UTAustin,UTAustin,0.000784,5,0.030570728,0.342163355,0.023146584,11,11,0.327272727
+n530,AP¢ç Physics 1 - Part 2: Rotational Motion,Physics,07/24/2015,Closed,Introductory,Rice,Rice,0.001531409,8,0.088110975,0.349099099,0.023024887,41,27,0.700854701
+n759,Introduction to Statistics: Inference,Data Analysis & Statistics,02/06/2014,Closed,Introductory,UC Berkeley,UC Berkeley,0.000743,7,0.035144105,0.338723776,0.022761079,14,10,0.333333333
+n15,Introduction to Investments,Business & Management,03/16/2016,1~50,Introductory,IIMB,IIMB,0.00140664,6,0.085870585,0.348471223,0.022392296,29,25,0.636666667
+n172,Design and Development of Games for Learning,Education & Teacher Training,03/09/2016,51~100,Intermediate,MIT,MIT,0.000723,5,0.040714441,0.349413886,0.022035448,12,10,0.333333333
+n627,"Transforming Business, Society, and Self with U.Lab",Business & Management,06/10/2015,Free,Introductory,MIT,MIT,0.000868,5,0.04587639,0.339614373,0.021983358,13,13,0.538461538
+n482,Preparing for the AP* Physics C: Electricity and Magnetism Exam,Physics,01/29/2016,Closed,Introductory,Georgetown,Georgetown,0.000571,9,0.024545087,0.344138544,0.02196012,8,7,0.285714286
+n667,Principles of Biochemistry,Biology & Life Sciences,03/27/2015,Closed,Introductory,Harvard,Harvard,0.000665,8,0.040564001,0.353075171,0.021248362,11,9,0.611111111
+n513,How to Write a Novel? Part 1: Plan & Outline,Literature,07/16/2015,201~300,Introductory,UBC,UBC,0.000935,1,0.024652002,0.327972916,0.021121872,19,13,0.538461538
+n253,Creating Video for the edX Platform,Education & Teacher Training,11/19/2015,noInfo,Introductory,ed,ed,0.000616,6,0.014804096,0.324132162,0.020839776,7,7,0.047619048
+n32,Computer Graphics,Computer Science,03/04/2016,1~50,Introductory,UC San Diego,Others,0.000975,11,0.108557279,0.349729242,0.020825119,18,18,0.699346405
+n125,Financial Accounting,Business & Management,03/31/2016,51~100,Introductory,ACCA,ACCA,0.001312925,6,0.097076178,0.354366712,0.020787612,37,24,0.706521739
+n101,Reinvent Yourself: Unleash Your Creativity,Science,04/21/2016,51~100,Introductory,UTHealthSPH,Others,0.000799,6,0.0262433,0.343224092,0.020778174,15,11,0.472727273
+n481,The Software Architect Code: Building the Digital World,Computer Science,07/27/2015,Closed,Intermediate,UC3M,UC3M,0.000934,6,0.083667722,0.373314066,0.020608853,16,16,0.5
+n326,Introduction to jQuery,Computer Science,02/26/2016,1~50,Introductory,Microsoft,Microsoft,0.000724,9,0.013591584,0.311745776,0.020564894,10,8,0.464285714
+n445,Foundations of Data Analysis - Part 2: Inferential Statistics,Math,10/05/2015,Closed,Introductory,UTAustin,UTAustin,0.001939234,7,0.662071024,0.401554404,0.020468541,59,46,0.828019324
+n207,AP¢ç Macroeconomics: Challenging Concepts,Economics & Finance,07/01/2015,1~50,Intermediate,Davidson Next,Davidson Next,0.0006,6,0.024261032,0.336517586,0.020467776,11,8,0.285714286
+n63,English for Journalists: Free Speech and Media Trends,Communication,02/08/2016,1~50,Introductory,UC Berkeley,UC Berkeley,0.000937,1,0.036594227,0.340809147,0.02046722,17,14,0.637362637
+n257,"How to Save a Life: CPR, AED and First Aid",Health & Safety,11/25/2015,Free,Introductory,Save A Life,Others,0.000774,0,0.032107915,0.325630252,0.020294988,12,10,0.311111111
+n686,Discrete-Time Signal Processing,Computer Science,05/14/2015,51~100,Introductory,MIT,MIT,0.001304441,11,0.123941429,0.370105062,0.020165665,29,25,0.803333333
+n672,Math in Sports,Math,12/08/2014,Closed,Advanced,NotreDame,Others,0.000668,8,0.024714693,0.332190313,0.01995331,8,8,0.25
+n163,Agile Development Using Ruby on Rails - Advanced,Computer Science,02/03/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.000531,11,0.018864963,0.326728499,0.019864717,12,6,0.466666667
+n564,Pride and Prejudice by Austen: BerkeleyX Book Club,Humanities,01/08/2015,Closed,Introductory,UC Berkeley,UC Berkeley,0.001337503,4,0.048550179,0.335643136,0.019655673,32,20,0.710526316
+n737,ISSCC Previews: Circuit and System Insights,Electronics,11/07/2014,Free,Introductory,IEEE,IEEE,0.000795,9,0.015873155,0.324947589,0.019650627,14,10,0.8
+n248,"Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity",Art & Culture,10/28/2015,Closed,Intermediate,HarvardX&MIT,Others,0.000618,5,0.020159533,0.316714344,0.019594293,7,6,0.333333333
+n230,Circuits and Electronics 3: Applications,Electronics,09/16/2015,1~50,Intermediate,MIT,MIT,0.00096,9,0.023562472,0.327418673,0.01924676,22,13,0.538461538
+n540,Optimizing Microsoft Windows Server Storage,Computer Science,10/16/2015,Closed,Advanced,Microsoft,Microsoft,0.001344365,9,0.070232312,0.347689547,0.019119248,36,23,0.581027668
+n542,Lessons from Ebola: Preventing the Next Pandemic,Health & Safety,10/14/2015,Closed,Intermediate,Harvard,Harvard,0.001743968,0,0.363656208,0.381210034,0.019067745,39,38,0.862019915
+n634,Introduction to Human Evolution,Biology & Life Sciences,09/02/2015,Closed,Intermediate,Wellesley,Wellesley,0.000926,10,0.051234782,0.357307515,0.018961554,16,14,0.538461538
+n623,How to Write an Essay,Humanities,07/13/2015,Closed,Introductory,UC Berkeley,UC Berkeley,0.001167893,1,0.042721592,0.347689547,0.018898518,29,18,0.594771242
+n673,"The Divine Comedy: Dante's Journey to Freedom, Part 3 (Paradiso)",Humanities,08/12/2014,Closed,Intermediate,Georgetown,Georgetown,0.0006,14,0.003656646,0.274822695,0.018731292,10,4,0.666666667
+n290,Useful Genetics Part 1: How Our Genes Shape Us,Biology & Life Sciences,12/23/2015,1~50,Intermediate,UBC,UBC,0.000747,8,0.021938407,0.331196581,0.018649182,13,10,0.4
+n28,China (Part 6): The Manchus and the Qing Dynasty,History,03/07/2016,51~100,Intermediate,Harvard,Harvard,0.001056484,15,0.028040738,0.315939666,0.018630802,27,15,0.771428571
+n596,Introduction to Deep Earth Science ? Part 1,Science,06/15/2015,Closed,Intermediate,TokyoTech,Others,0.000984,5,0.05613146,0.34368071,0.018629489,16,15,0.561904762
+n516,Jazz Appreciation,History,09/04/2015,Closed,Introductory,UTAustin,UTAustin,0.000981,15,0.027593368,0.333190026,0.018474655,16,14,0.747252747
+n765,Street-Fighting Math,Math,01/24/2014,Free,Advanced,MIT,MIT,0.000585,6,0.016550817,0.328807807,0.018311555,7,7,0.285714286
+n11,Introduction to Marketing,Business & Management,11/23/2015,1~50,Advanced,UBC,UBC,0.001017075,6,0.046489638,0.343376163,0.018250482,17,16,0.45
+n576,Making Government Work in Hard Places,Social Sciences,09/15/2015,Free,Introductory,Princeton,Others,0.000626,14,0.028809183,0.342163355,0.01809628,8,8,0.107142857
+n495,"Jazz: The Music, The Stories, The Players",Music,10/01/2015,Closed,Introductory,Hamilton,Others,0.000951,15,0.035863431,0.342465753,0.018095852,15,14,0.736263736
+n321,Greatest Unsolved Mysteries of the Universe,Energy & Earth Sciences,02/10/2016,1~50,Introductory,ANU,ANU,0.000919,8,0.011977645,0.314656922,0.01806648,17,10,0.644444444
+n83,Tropical Coastal Ecosystems,Biology & Life Sciences,03/15/2016,51~100,Intermediate,UQ,UQ,0.000612,5,0.035483392,0.341409692,0.018065552,8,8,0.285714286
+n731,Modeling Climate Change,Environmental Studies,10/09/2014,Closed,Introductory,UChicago,Others,0.000731,5,0.02679011,0.327418673,0.017935437,12,10,0.466666667
+n175,Supply Chain Analytics,Business & Management,03/09/2016,101~200,Intermediate,MIT,MIT,0.0008,6,0.059532009,0.348941918,0.017918052,31,12,0.439393939
+n294,Topology in Condensed Matter: Tying Quantum Knots,Physics,10/07/2015,Free,Intermediate,Delft,Delft,0.000754,8,0.021640991,0.307539683,0.017892219,10,10,0.488888889
+n205,On-Ramp to AP* Calculus,Math,07/16/2015,Closed,Introductory,Weston High School,Others,0.001095406,8,0.031431777,0.32769556,0.017830256,16,16,0.583333333
+n377,Digital Branding and Engagement,Business & Management,01/20/2016,Closed,Introductory,Curtin,Others,0.000781,9,0.053136051,0.358298659,0.017496366,13,12,0.484848485
+n234,"Saving Schools, Mini-Course 2: Teacher Policies",Education & Teacher Training,09/01/2015,Closed,Intermediate,Harvard,Harvard,0.000848,14,0.056585681,0.348941918,0.01743424,17,12,0.515151515
+n186,Introduction to Algebra,Math,09/02/2014,1~50,Intermediate,SchoolYourself,Others,0.000726,7,0.080109333,0.343072156,0.01740506,11,11,0.4
+n506,Becoming an Entrepreneur,Business & Management,12/22/2015,Closed,Introductory,MIT,MIT,0.001202025,1,0.166507523,0.376396309,0.017281149,26,23,0.71541502
+n192,Anthropology of Current World Issues,Humanities,05/11/2015,Closed,Intermediate,UQ,UQ,0.000505,0,0.020070216,0.331196581,0.017194067,6,6,0.4
+n575,"The Beauty and Joy of Computing (CS Principles), Part 2",Computer Science,08/29/2014,Closed,Introductory,UC Berkeley,UC Berkeley,0.001263093,11,0.144742264,0.365049458,0.01714935,47,25,0.59
+n451,"The Beauty and Joy of Computing (CS Principles), Part 4",Computer Science,08/29/2014,Closed,Introductory,UC Berkeley,UC Berkeley,0.001263093,11,0.144742264,0.365049458,0.01714935,47,25,0.59
+n538,"The Beauty and Joy of Computing (CS Principles), Part 3",Computer Science,08/29/2014,Closed,Intermediate,UC Berkeley,UC Berkeley,0.001263093,11,0.144742264,0.365049458,0.01714935,47,25,0.59
+n366,Conversational English Skills,Art & Culture,02/25/2016,1~50,Introductory,Tsinghua,Tsinghua,0.000943,1,0.033967321,0.330349531,0.016432667,15,14,0.648351648
+n46,Global Inequality,Social Sciences,04/06/2016,1~50,Introductory,Wellesley,Wellesley,0.000676,0,0.027036403,0.335207612,0.016342794,11,9,0.444444444
+n682,Calculus 1A: Differentiation,Math,09/09/2014,Closed,Introductory,MIT,MIT,0.001016384,8,0.035201448,0.326178451,0.016192432,19,15,0.676190476
+n171,The Jungle by Sinclair: BerkeleyX Book Club,Humanities,11/10/2015,1~50,Introductory,UC Berkeley,UC Berkeley,0.000957,4,0.037121714,0.3248114,0.016150398,13,13,0.846153846
+n638,Introduction to Sociology,Social Sciences,05/21/2015,Closed,Intermediate,UTPermianBasin,Others,0.000654,0,0.05223666,0.338280227,0.01601324,13,10,0.377777778
+n650,Effects of Radiation: An Introduction to Radiation and Radioactivity,Science,04/21/2015,Closed,Introductory,OEC,OEC,0.00053,5,0.008583043,0.289719626,0.015920732,5,5,0.2
+n730,Library Advocacy Unshushed,Art & Culture,12/12/2014,Free,Introductory,University of Toronto,University of Toronto,0.000548,6,0.024787439,0.332047986,0.01567153,7,7,0.285714286
+n221,"The Book: Monasteries, Schools, and Notaries, Part 1: Reading the Late Medieval Marseille Archive",Humanities,07/07/2015,Closed,Introductory,Harvard,Harvard,0.000751,4,0.017565982,0.312626059,0.015669846,14,9,0.583333333
+n337,How to Code: Systematic Program Design - Part 2,Computer Science,02/03/2016,1~50,Introductory,UBC,UBC,0.001030087,11,0.085214799,0.360297536,0.015605031,26,18,0.54248366
+n440,Implementing Predictive Solutions with Spark in Azure HDInsight,Computer Science,08/27/2015,Closed,Intermediate,Microsoft,Microsoft,0.000933,7,0.106090356,0.335788562,0.015482307,25,16,0.416666667
+n550,Enhancing Teacher Education Through OER,Education & Teacher Training,09/25/2015,Closed,Introductory,OEC,OEC,0.0008,14,0.054346598,0.342920354,0.015473944,12,11,0.618181818
+n20,Well and Able - Improving the Physical Health of People with Intellectual Disability,Medicine,02/05/2016,51~100,Introductory,UQ,UQ,0.001676201,0,0.36531792,0.384234011,0.015440411,41,37,0.899399399
+n291,"Useful Genetics, Part 2: Genes and Genetic Inheritance",Biology & Life Sciences,12/23/2015,1~50,Introductory,UBC,UBC,0.00063,8,0.025731069,0.336079792,0.015339005,11,8,0.392857143
+n279,Italian Language and Culture: Advanced,Language,12/09/2015,1~50,Intermediate,Wellesley,Wellesley,0.000838,15,0.024846992,0.335497835,0.015184115,19,12,0.515151515
+n229,"Circuits and Electronics 2: Amplification, Speed, and Delay",Electronics,09/16/2015,1~50,Intermediate,MIT,MIT,0.000911,9,0.015531574,0.316584967,0.01510048,20,11,0.709090909
+n3,Introduction to Programming with Java Part 1: Starting to Code with Java,Computer Science,09/08/2015,Closed,Advanced,UC3M,UC3M,0.001455087,11,0.239941594,0.360800745,0.015079819,36,31,0.838709677
+n387,Fun with Prime Numbers: The Mysterious World of Mathematics,Math,03/11/2016,1~50,Intermediate,KyotoU,KyotoU,0.000693,10,0.020845897,0.333046841,0.014869813,9,9,0.333333333
+n60,Microsoft SharePoint Enterprise Content Management,Computer Science,04/12/2016,1~50,Intermediate,Microsoft,Microsoft,0.000718,9,0.058299401,0.345982143,0.014797067,13,11,0.454545455
+n602,The Civil War and Reconstruction - 1850-1861: A Nation Divided,History,08/20/2015,Closed,Introductory,Columbia,Columbia,0.000782,14,0.008018153,0.298421255,0.014633932,11,8,0.571428571
+n433,Tsinghua Chinese: Start Talking with 1.3 Billion People,Language,04/19/2016,1~50,Intermediate,Tsinghua,Tsinghua,0.001058824,15,0.036202693,0.333620319,0.014617959,18,16,0.675
+n706,Entrepreneurship 101: Who is your customer?,Business & Management,03/30/2015,Closed,Introductory,MIT,MIT,0.000744,6,0.022783227,0.327834179,0.014592609,12,10,0.422222222
+n717,The Computing Technology Inside Your Smartphone,Computer Science,10/02/2014,Closed,Intermediate,Cornell,Cornell,0.00108478,11,0.126170239,0.357307515,0.014583747,27,21,0.671428571
+n444,Medicating for Mental Health: Judicious Use of Psychiatric Drugs,Biology & Life Sciences,02/09/2016,Closed,Introductory,Colgate,Others,0.000866,5,0.024642855,0.320778146,0.014541426,15,12,0.439393939
+n34,Dog Behavior: Problems and Solutions,Biology & Life Sciences,02/08/2016,301~400,Intermediate,ASU,ASU,0.000929,10,0.049292167,0.348471223,0.014457882,21,14,0.67032967
+n636,How to Survive Your PhD,Education & Teacher Training,07/22/2015,Closed,Introductory,ANU,ANU,0.000609,1,0.027674969,0.34006143,0.014167055,8,8,0.214285714
+n751,History of Chinese Architecture,Architecture,08/20/2014,Free,Intermediate,Tsinghua,Tsinghua,0.001089286,15,0.034081657,0.327142254,0.014164579,16,16,0.7
+n346,Medicinal Chemistry: The Molecular Basis of Drug Discovery,Chemistry,01/26/2016,1~50,Introductory,Davidson,Davidson,0.00055,5,0.010242823,0.303089558,0.014139167,9,6,0.4
+n369,A Christmas Carol by Dickens: BerkeleyX Book Club,Humanities,02/19/2016,1~50,Advanced,UC Berkeley,UC Berkeley,0.001283194,4,0.04657618,0.330772514,0.014122928,25,19,0.754385965
+n84,"Frankenstein; Or, The Modern Prometheus by Shelley: BerkeleyX Book Club",Humanities,11/10/2015,Free,Intermediate,UC Berkeley,UC Berkeley,0.001283194,4,0.04657618,0.330772514,0.014122928,25,19,0.754385965
+n439,The Picture of Dorian Gray by Wilde: BerkeleyX Book Club,Humanities,11/06/2014,Closed,Intermediate,UC Berkeley,UC Berkeley,0.001283194,4,0.04657618,0.330772514,0.014122928,25,19,0.754385965
+n195,Introduction to Office 365 APIs,Computer Science,05/22/2015,Closed,Intermediate,Microsoft,Microsoft,0.000816,9,0.06205956,0.345365419,0.01404179,14,13,0.41025641
+n143,English Composition,Communication,03/28/2016,1~50,Intermediate,ASU,ASU,0.000785,1,0.031366121,0.339912281,0.01393466,12,11,0.672727273
+n761,Big-Data and Social Physics,Computer Science,04/04/2014,Free,Introductory,MIT,MIT,0.000677,7,0.072775609,0.349887133,0.013916555,10,10,0.311111111
+n622,Introduction to Urology,Health & Safety,02/20/2015,Free,Introductory,KI,KI,0.000601,0,0.039769259,0.325630252,0.013673965,8,8,0.571428571
+n314,Information and Communication Technology (ICT) Accessibility,Humanities,01/22/2016,1~50,Intermediate,GT,Others,0.000514,6,0.018309983,0.329366766,0.013429506,6,6,0.133333333
+n443,Mobile Application Experiences Part 3: Building Mobile Apps,Computer Science,01/08/2016,Closed,Introductory,MIT,MIT,0.001101955,9,0.036508089,0.333046841,0.013191244,37,17,0.610294118
+n355,Shaping the Future of Work,Business & Management,02/01/2016,Closed,Introductory,MIT,MIT,0.000463,6,0.016295912,0.328668363,0.013022075,5,5,0
+n323,Introduction to Computational Thinking and Data Science,Computer Science,01/14/2016,Closed,Introductory,MIT,MIT,0.000693,11,0.050990362,0.333333333,0.012341417,11,11,0.618181818
+n592,Managing Addiction: A Framework for Successful Treatment,Biology & Life Sciences,06/18/2015,Closed,Intermediate,Adelaide,Adelaide,0.000701,5,0.031955251,0.333620319,0.011936413,10,10,0.511111111
+n738,"Light, Spike, and Sight: The Neuroscience of Vision",Biology & Life Sciences,08/12/2014,Free,Intermediate,MIT,MIT,0.000497,8,0.007330747,0.306445235,0.011920602,4,4,0.166666667
+n456,Introduction to People Management,Business & Management,12/01/2015,Closed,Advanced,IIMB,IIMB,0.001164476,6,0.085201094,0.352272727,0.011876109,22,21,0.7
+n246,Career Edge: Design Your Career,Business & Management,10/26/2015,1~50,Introductory,Fullbridge,Fullbridge,0.000654,7,0.041977719,0.348001796,0.011821751,13,9,0.527777778
+n739,"International Politics in the Korean Peninsula, Part 1",History,02/04/2014,Free,Intermediate,SNU,SNU,0.000515,15,0.023950871,0.320247934,0.011662592,8,6,0.4
+n44,Stress Testing and Risk Regulation ? Part 1,Economics & Finance,03/07/2016,301~400,Introductory,new-york Institute of Finance,new-york Institute of Finance,0.000812,6,0.054931924,0.338427948,0.011475279,18,13,0.641025641
+n427,"Measuring Risk: Equity, Fixed Income, Derivatives and Forex",Economics & Finance,03/07/2016,201~300,Introductory,new-york Institute of Finance,new-york Institute of Finance,0.00075,6,0.03371585,0.316584967,0.011413198,13,11,0.709090909
+n319,Cellular Mechanisms of Brain Function,Biology & Life Sciences,12/17/2015,1~50,Introductory,EPFL,EPFL,0.000781,10,0.015475052,0.323725982,0.011014755,11,10,0.444444444
+n408,Fundamentals of Neuroscience Part 1: Electrical Properties of the Neuron,Biology & Life Sciences,04/12/2016,noInfo,Advanced,Harvard,Harvard,0.000723,10,0.013614505,0.319719472,0.010830356,14,9,0.638888889
+n237,M&A Professional Certificate Part 5 ? Accounting for Mergers & Acquisitions,Economics & Finance,06/30/2015,201~300,Introductory,new-york Institute of Finance,new-york Institute of Finance,0.000939,6,0.051460171,0.336956522,0.010545638,35,15,0.628571429
+n541,Atomic and Optical Physics I? Part 4: Atom-Light Interactions 2: Line Broadening and Two-Photon Transitions,Physics,08/31/2015,Closed,Introductory,MIT,MIT,0.001388503,8,0.078376658,0.342920354,0.010408632,35,24,0.815217391
+n278,Globalization's Winners and Losers: Challenges for Developed and Developing Countries,Business & Management,12/23/2015,1~50,Intermediate,Georgetown,Georgetown,0.000686,6,0.029331944,0.334051724,0.010299772,11,9,0.361111111
+n238,Preparing for the AP* English Language and Composition Exam,Humanities,08/27/2014,1~50,Introductory,Tennessee Board of Regents,Others,0.000732,1,0.033154083,0.338132635,0.010046093,13,10,0.8
+n140,Introduction to Animal Behaviour,Biology & Life Sciences,03/03/2016,1~50,Introductory,Wageningen,Wageningen,0.000511,1,0.026132473,0.332047986,0.010019331,6,6,0.266666667
+n651,European Paintings: From Leonardo to Rembrandt to Goya,Art & Culture,06/08/2015,Closed,Intermediate,UC3M,UC3M,0.000699,15,0.010004947,0.299574797,0.009994579,8,8,0.464285714
+n147,Supply Chain Dynamics,Business & Management,10/07/2015,101~200,Introductory,MIT,MIT,0.000707,6,0.038066295,0.34368071,0.009912947,29,10,0.533333333
+n691,Autonomous Navigation for Flying Robots,Computer Science,04/23/2015,noInfo,Introductory,TUM,Others,0.0005,8,0.006528545,0.307417691,0.009907169,4,4,0.166666667
+n268,First Nights: Beethoven¡¯s 9th Symphony and the 19th Century Orchestra,Music,12/21/2015,1~50,Introductory,Harvard,Harvard,0.000931,15,0.026225216,0.330349531,0.009749441,14,13,0.858974359
+n566,Evolution of the Human Sociality: A Quest for the Origin of Our Social Behavior,Science,07/06/2015,Closed,Introductory,KyotoU,KyotoU,0.000827,10,0.039430969,0.351155415,0.009626689,13,12,0.727272727
+n348,Processing Big-Data with Azure HDInsight,Computer Science,03/09/2016,1~50,Introductory,Microsoft,Microsoft,0.000669,7,0.056957161,0.335643136,0.009181883,13,10,0.444444444
+n176,Paradigms of Computer Programming ? Abstraction and Concurrency,Computer Science,04/20/2016,1~50,Introductory,Louvain,Louvain,0.001392968,11,0.238601854,0.360297536,0.00917378,38,30,0.889655172
+n166,Paradigms of Computer Programming ? Fundamentals,Computer Science,04/20/2016,1~50,Intermediate,Louvain,Louvain,0.001392968,11,0.238601854,0.360297536,0.00917378,37,30,0.889655172
+n669,Future Food Production: Crops,Biology & Life Sciences,05/21/2015,Closed,Intermediate,Wageningen,Wageningen,0.000547,0,0.022887968,0.307295797,0.009055708,6,6,0.266666667
+n1,TOEFL¢ç Test Preparation: The Insider¡¯s Guide,Language,04/05/2016,1~50,Introductory,ETS,Others,0.000498,1,0.016384126,0.325630252,0.008861038,6,6,0.266666667
+n167,Lab Safety: The Interactive Game of Don¡¯t Endanger the Owls,Chemistry,09/29/2014,1~50,Introductory,Rice,Rice,0.000626,0,0.027266339,0.331196581,0.008775963,9,8,0.357142857
+n558,"Mechanical Behavior of Materials, Part 3: Time Dependent Behavior and Failure",Engineering,08/04/2015,Closed,Intermediate,MIT,MIT,0.000935,10,0.044142905,0.346601073,0.008312822,18,14,0.714285714
+n222,"The Book: Monasteries, Schools, and Notaries, Part 2: Introduction to the Transitional Gothic Script",Humanities,07/07/2015,Closed,Introductory,Harvard,Harvard,0.000566,4,0.009234019,0.305719921,0.008120644,7,6,0.4
+n356,Calculus 1C: Coordinate Systems & Infinite Series,Math,09/09/2014,Closed,Intermediate,MIT,MIT,0.00095,8,0.033937404,0.324403516,0.008000224,18,14,0.78021978
+n747,Fundamentals of Programming,Computer Science,05/28/2014,Free,Introductory,Peking,Others,0.001424287,11,0.252746242,0.356485741,0.007989044,33,31,0.834408602
+n708,Fundamentals of Nanoelectronics: Basic Concepts,Electronics,12/29/2014,Closed,Introductory,Purdue,Purdue,0.00067,8,0.022152195,0.307906238,0.007972615,9,9,0.611111111
+n161,Distributed machine-learning with Spark,Data Analysis & Statistics,02/08/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.000854,7,0.183296598,0.335934114,0.007960423,20,16,0.683333333
+n48,Global Sociology,Social Sciences,04/06/2016,1~50,Introductory,Wellesley,Wellesley,0.001006914,0,0.123403444,0.353075171,0.007769997,22,18,0.816993464
+n518,Tsunamis and Storm Surges: Introduction to Coastal Disasters,Environmental Studies,11/09/2015,Free,Intermediate,Waseda,Others,0.00069,5,0.011081225,0.307052298,0.007540555,9,8,0.428571429
+n310,The Science of Everyday Thinking,Business & Management,02/18/2016,51~100,Introductory,UQ,UQ,0.000644,6,0.01519791,0.330068143,0.007460091,8,8,0.75
+n245,Introduction to Windows Server,Computer Science,10/21/2015,Closed,Intermediate,Microsoft,Microsoft,0.001111962,9,0.043291487,0.324947589,0.007230372,22,18,0.68627451
+n726,"Symmetry, Structure and Tensor Properties of Materials",Chemistry,11/17/2014,Closed,Intermediate,MIT,MIT,0.000657,8,0.014488091,0.311745776,0.00716655,9,8,0.428571429
+n351,Mastering Quantum Mechanics Part 2: Quantum Dynamics,Physics,12/23/2015,Closed,Introductory,MIT,MIT,0.001013506,8,0.03330203,0.31710311,0.0070053,18,15,0.723809524
+n150,Dracula by Stoker: BerkeleyX Book Club,Humanities,11/10/2015,1~50,Intermediate,UC Berkeley,UC Berkeley,0.000993,4,0.038476393,0.327142254,0.006847134,16,14,0.78021978
+n555,Trends in e-Psychology,Health & Safety,03/26/2015,Free,Intermediate,KULeuven,Others,0.001632302,0,0.360090602,0.378417969,0.006731051,38,36,0.946031746
+n479,Making Sense of News,Art & Culture,11/03/2015,Closed,Introductory,HKU,Others,0.000492,0,0.030085064,0.329506803,0.006662125,6,6,0.133333333
+n300,Framing: How Politicians Debate,Communication,11/17/2015,1~50,Advanced,Delft,Delft,0.000518,0,0.018719716,0.325220311,0.00659193,6,6,0.4
+n162,Advanced Distributed machine-learning with Spark,Data Analysis & Statistics,02/08/2016,51~100,Introductory,UC Berkeley,UC Berkeley,0.000602,7,0.07320031,0.31619747,0.006507608,13,9,0.722222222
+n137,Judaism Through Its Scriptures,Humanities,02/05/2016,1~50,Introductory,Harvard,Harvard,0.000724,4,0.009493125,0.299690642,0.006426862,10,8,0.607142857
+n228,Circuits and Electronics 1: Basic Circuit Analysis,Electronics,09/16/2015,1~50,Introductory,MIT,MIT,0.000831,9,0.014660018,0.315682281,0.005971482,16,10,0.822222222
+n483,The Body Matters: Why Exercise Makes You Healthy and How to Stay Uninjured,Health & Safety,11/30/2015,Closed,Introductory,McGill,Others,0.000693,0,0.049232962,0.321710253,0.005915546,10,10,0.444444444
+n318,Astrophysics: The Violent Universe,Physics,02/10/2016,1~50,Introductory,ANU,ANU,0.000853,8,0.010915497,0.30535855,0.005864624,19,9,0.777777778
+n110,Personal Finance Planning,Economics & Finance,06/15/2015,1~50,Introductory,Purdue,Purdue,0.000653,6,0.015296217,0.296140619,0.005843413,9,7,0.428571429
+n496,The Conscious Mind - A Philosophical Road Trip,Philosophy & Ethics,12/11/2015,Closed,Introductory,Trinity,Others,0.000689,10,0.010896593,0.308151093,0.005716961,8,8,0.714285714
+n484,Policy Analysis Using Interrupted Time Series,Economics & Finance,11/09/2015,301~400,Intermediate,UBC,UBC,0.00052,7,0.101124214,0.332618026,0.00560868,8,8,0.75
+n201,The Road to Selective College Admissions,Education & Teacher Training,06/10/2015,Closed,Intermediate,St. Margaret Episcopal School,Others,0.000978,8,0.070849131,0.346446133,0.005531556,17,17,0.882352941
+n258,How to Save a Life: Pediatric Advanced Life Support,Health & Safety,11/25/2015,Free,Introductory,Save A Life,Others,0.000735,0,0.024829106,0.323590814,0.005430926,13,9,0.666666667
+n380,Christianity Through Its Scriptures,Humanities,02/05/2016,1~50,Introductory,Harvard,Harvard,0.000666,4,0.007601255,0.29830639,0.005329537,12,7,0.761904762
+n462,Startup Success: How to Launch a Technology Company in 6 Steps,Business & Management,11/04/2015,101~200,Introductory,MIT,MIT,0.000458,7,0.004313858,0.287462908,0.005306322,4,4,0.166666667
+n189,Creating a Course with edX Studio,Education & Teacher Training,03/02/2015,noInfo,Intermediate,ed,ed,0.0005,9,0.005242037,0.284821757,0.005194396,4,4,0.166666667
+n548,Writing Exams for Science and Engineering Courses,Education & Teacher Training,11/04/2015,Closed,Intermediate,IEEE,IEEE,0.000376,14,0.032671261,0.334051724,0.00518645,4,4,0.166666667
+n26,China (Part 4): Literati China: Examinations and Neo-Confucianism,History,03/07/2016,51~100,Introductory,Harvard,Harvard,0.000997,15,0.026686738,0.312122433,0.00510162,26,14,0.879120879
+n31,China (Part 9): China and Communism,History,03/07/2016,51~100,Introductory,Harvard,Harvard,0.000997,15,0.026686738,0.312122433,0.00510162,26,14,0.879120879
+n38,Evaluating Social Programs,Economics & Finance,03/11/2016,1~50,Intermediate,MIT,MIT,0.0008,5,0.080010564,0.359795729,0.005095332,13,13,0.756410256
+n203,Introduction to Java Programming ? Part 1,Computer Science,05/14/2015,Closed,Intermediate,HKUST,HKUST,0.000442,11,0.048074444,0.327557058,0.00486575,6,6,0.466666667
+n719,Introduction to Aerospace Engineering: Astronautics and Human Spaceflight,Engineering,12/10/2014,Closed,Intermediate,MIT,MIT,0.000583,15,0.008144426,0.309381238,0.004860851,9,6,0.733333333
+n510,Nanotechnology: Fundamentals of Nanotransistors,Engineering,09/11/2015,Closed,Introductory,Purdue,Purdue,0.000448,8,0.005767287,0.298191612,0.004786922,5,4,0.166666667
+n40,Buddhism Through Its Scriptures,Humanities,02/05/2016,1~50,Introductory,Harvard,Harvard,0.000725,4,0.009076708,0.297962322,0.004743346,11,8,0.678571429
+n23,"China (Part 10): Greater China Today: The People's Republic, Taiwan, and Hong Kong",History,03/07/2016,51~100,Introductory,Harvard,Harvard,0.001033733,15,0.029868314,0.315810921,0.00428978,26,15,0.8
+n58,Introduction to DevOps,Computer Science,04/08/2016,1~50,Introductory,Microsoft,Microsoft,0.000407,8,0.008588895,0.310248199,0.004224283,4,4,0.333333333
+n746,Waves & Optics,Physics,08/18/2014,Closed,Introductory,Rice,Rice,0.000464,8,0.01530529,0.291243893,0.004143476,6,5,0.6
+n306,"Cyberwar, Surveillance and Security",Law,01/20/2016,1~50,Introductory,Adelaide,Adelaide,0.000435,6,0.006157598,0.300620636,0.004141526,4,4,0.166666667
+n217,M&A Professional Certificate Part 3 ? Structuring the Deal,Economics & Finance,06/30/2015,201~300,Intermediate,new-york Institute of Finance,new-york Institute of Finance,0.000703,6,0.027439484,0.329087049,0.004102884,21,10,0.755555556
+n333,Psychology of Political Activism: Women Changing the World,Social Sciences,10/27/2015,Closed,Introductory,Smith,Others,0.000706,10,0.032098412,0.342617153,0.004051834,11,10,0.733333333
+n170,The Basics of Transport Phenomena,Biology & Life Sciences,03/01/2016,1~50,Introductory,Delft,Delft,0.000529,9,0.012807793,0.315168768,0.003766786,6,6,0.533333333
+n190,Welcome to Global Freshman Academy,Education & Teacher Training,04/21/2015,noInfo,Introductory,ASU,ASU,0.000436,6,0.008225848,0.29648049,0.003728422,4,4,0.5
+n284,Unlocking Your Employability,Social Sciences,11/19/2015,51~100,Introductory,UQ,UQ,0.00042,7,0.007913333,0.308028617,0.003635452,4,4,0.5
+n608,Terrorism and Counterterrorism,Law,07/30/2015,Closed,Introductory,Georgetown,Georgetown,0.000448,6,0.022242491,0.314401623,0.003603363,5,5,0.4
+n200,Making Sense of Climate Science Denial,Communication,06/23/2015,Closed,Intermediate,UQ,UQ,0.000762,5,0.0416465,0.329646959,0.003543721,16,11,0.818181818
+n214,"CLEP Information Systems and Computer Applications, Part 1: IT",Computer Science,06/17/2015,1~50,Introductory,UPValencia,UPValencia,0.001201674,11,0.115723156,0.367647059,0.003489125,31,23,0.928853755
+n395,"From Goddard to Apollo: The History of Rockets, Part 1",History,03/01/2016,1~50,Introductory,IEEE,IEEE,0.000505,15,0.007721819,0.296367113,0.003376583,5,5,0.4
+n212,M&A Professional Certificate Part 1 ? Concepts and Theories: An Introduction,Economics & Finance,06/30/2015,1~50,Introductory,new-york Institute of Finance,new-york Institute of Finance,0.000755,6,0.029709141,0.322379368,0.003334868,29,11,0.745454545
+n488,Respiration in the Human Body,Biology & Life Sciences,12/17/2015,Closed,Introductory,Louvain,Louvain,0.00039,0,0.025180704,0.308641975,0.003226742,3,3,0.666666667
+n342,Contract Law: From Trust to Promise to Contract,Law,03/14/2016,51~100,Intermediate,Harvard,Harvard,0.000578,10,0.012923338,0.313131313,0.003204718,7,7,0.714285714
+n307,Hypersonics ? from Shock Waves to Scramjets,Engineering,02/04/2016,51~100,Intermediate,UQ,UQ,0.000368,9,0.006723427,0.291682349,0.002837371,3,3,0.333333333
+n183,DemoX,Biology & Life Sciences,09/15/2014,noInfo,Introductory,ed,ed,0.000447,9,0.003032611,0.272983445,0.002616537,3,3,0.333333333
+n420,IMAGE | ABILITY - Visualizing the Unimaginable,Communication,12/11/2015,1~50,Introductory,Delft,Delft,0.000466,5,0.017254791,0.300271213,0.002560712,4,4,0.5
+n43,Introduction to Marketing: Tools to Set Enterprises Apart,Business & Management,12/30/2015,1~50,Introductory,Edinburgh,Others,0.000692,6,0.03164851,0.326315789,0.002322173,11,10,0.711111111
+n613,Introduction to Running Pipe in Oil and Gas Wells,Engineering,07/27/2015,Free,Intermediate,TenarisUniversity,Others,0.000383,6,0.00123563,0.25,0.002205157,4,2,0
+n529,Healthcare in India: Strategic Perspectives,Business & Management,12/04/2015,Closed,Introductory,IIMB,IIMB,0.000542,0,0.061630121,0.335062689,0.002196636,8,8,0.75
+n65,The Rise of Superheroes and Their Impact On Pop Culture,Art & Culture,03/10/2016,1~50,Intermediate,Smithsonian,Others,0.000992,4,0.024907428,0.301204819,0.002044839,19,14,0.923076923
+n218,The Book: Book Sleuthing: What 19th-Century Books Can Tell Us About the Rise of the Reading Public?,Humanities,07/06/2015,Closed,Introductory,Harvard,Harvard,0.000992,4,0.024907428,0.301204819,0.002044839,19,14,0.923076923
+n255,How to Save a Life: Advanced Cardiac Life Support,Health & Safety,11/25/2015,Free,Introductory,Save A Life,Others,0.000691,0,0.01332491,0.311745776,0.002009711,11,8,0.821428571
+n256,How to Save a Life: Basic Life Support,Health & Safety,11/25/2015,Free,Introductory,Save A Life,Others,0.000691,0,0.01332491,0.311745776,0.002009711,13,8,0.821428571
+n665,Science & Cooking: From Haute Cuisine to Soft Matter Science,Chemistry,02/18/2015,Closed,Introductory,Harvard,Harvard,0.000304,5,0.00452096,0.289179104,0.00197066,2,2,0
+n642,"Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You",History,04/15/2015,Free,Introductory,Harvard,Harvard,0.000304,14,0.015689238,0.307906238,0.001939021,2,2,0
+n772,Relativity and Astrophysics,Math,11/13/2013,Free,Intermediate,Cornell,Cornell,0.000366,8,0.006191396,0.301908843,0.001877789,3,3,0.333333333
+n244,Going Out on a Limb: Anatomy of the Upper Limb,Medicine,09/15/2015,Closed,Introductory,Penn,Penn,0.000459,0,0.016618265,0.298651252,0.001782197,4,4,0.666666667
+n678,Linear Algebra - Foundations to Frontiers (LAFF),Math,05/05/2015,Closed,Advanced,UTAustin,UTAustin,0.000568,7,0.059146696,0.335062689,0.001671709,10,8,0.714285714
+n357,Inclusive Leadership Training: Becoming a Successful Leader,Business & Management,02/22/2016,1~50,Introductory,Catalyst,Others,0.000654,5,0.013183589,0.318930041,0.001603121,15,8,0.857142857
+n700,The Ethics of Eating,Ethics,12/16/2014,Closed,Introductory,Cornell,Cornell,0.0004,0,0.021100711,0.299690642,0.001356421,4,4,0.5
+n764,Introduction to Statistics: Probability,Math,02/06/2014,Free,Introductory,UC Berkeley,UC Berkeley,0.000507,7,0.031721338,0.315553746,0.001260692,9,6,0.666666667
+n606,Introduction to Aerodynamics,Engineering,07/16/2015,Closed,Intermediate,MIT,MIT,0.000414,5,0.000915314,0.242490613,0.001139725,2,2,0
+n375,Ancient Egyptian Civilization,History,02/25/2016,Closed,Introductory,BA,Others,0.000557,15,0.009230127,0.298421255,0.00110114,6,6,0.733333333
+n299,Data Analysis for Life Sciences 5: Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays,Biology & Life Sciences,09/25/2015,Closed,Introductory,Harvard,Harvard,0.000545,7,0.106614199,0.340210711,0.000949615,13,9,0.833333333
+n29,"China (Part 7): Invasions, Rebellions and the Fall of Imperial China",History,03/07/2016,51~100,Intermediate,Harvard,Harvard,0.000981,15,0.027439476,0.310870437,0.000926015,27,14,0.89010989
+n285,Basic Steps in Magnetic Resonance,Chemistry,12/17/2015,noInfo,Introductory,EPFL,EPFL,0.000578,8,0.016780517,0.294341056,0.000691064,8,7,0.761904762
+n302,Global Warming Science,Physics,12/02/2015,Closed,Introductory,MIT,MIT,0.000573,5,0.019258528,0.307539683,0.000560826,11,7,0.857142857
+n648,"DOCUMENTARY! New Trends, New Formats",Communication,06/05/2015,Closed,Introductory,UC3M,UC3M,0.00034,6,0.013375698,0.298881604,0.00031698,3,3,0.666666667
+n603,Reconciliation Through Indigenous Education,Education & Teacher Training,06/15/2015,Closed,Intermediate,UBC,UBC,0.000481,14,0.011374187,0.290370925,0.000224298,5,5,0.7
+n368,Querying with Transact-SQL,Computer Science,03/09/2016,1~50,Introductory,Microsoft,Microsoft,0.000282,9,0.016540716,0.294117647,0.000117726,2,2,0
+n714,Poetry in America: Emily Dickinson,Literature,12/19/2014,Closed,Intermediate,Harvard,Harvard,0.000733,14,0.005628194,0.264595425,5.68399E-05,15,7,0.952380952
+n754,Poetry in America: The Poetry of Early New England,Literature,07/21/2014,Closed,Introductory,Harvard,Harvard,0.000733,14,0.005628194,0.264595425,5.68399E-05,11,7,0.952380952
+n187,Introduction to Geometry,Math,09/02/2014,1~50,Introductory,SchoolYourself,Others,0.00031,8,0.003278697,0.27145359,5.19158E-05,2,2,0
+n405,How to Save Money: Making Smart Financial Decisions,Economics & Finance,02/08/2016,noInfo,Intermediate,UC Berkeley,UC Berkeley,0.000386,6,0.005048626,0.270600559,5.0802E-05,4,3,0.666666667
+n646,Language Revival: Securing the Future of Endangered Languages,Communication,03/23/2015,Closed,Introductory,Adelaide,Adelaide,0.000632,11,0.062755748,0.325220311,0,11,10,1
+n132,World of Wine: From Grape to Glass,Chemistry,01/14/2016,1~50,Intermediate,Adelaide,Adelaide,0.000193,2,0,0,0,0,0,0
+n716,JuryX: Deliberations for Social Change,Law,01/07/2015,Closed,Intermediate,Harvard,Harvard,0.000193,13,0,0,0,0,0,0
+n684,Jesus in Scripture and Tradition,Humanities,12/08/2014,Closed,Advanced,NotreDame,Others,0.000193,12,0,0,0,0,0,0
+n612,"Computing: Art, Magic, Science",Computer Science,08/13/2015,Closed,Introductory,ETH,ETH,0.001290218,11,0.233651281,0.352272727,0,34,28,1
+n352,Understanding the Federal Reserve,Economics & Finance,03/24/2016,1~50,Introductory,new-york Institute of Finance,new-york Institute of Finance,0.000367,6,0.00682949,0.290697674,0,5,3,1
+n384,"Silicon Photonics Design, Fabrication and Data Analysis",Engineering,11/24/2015,401~500,Intermediate,UBC,UBC,0.000464,8,0.01243233,0.282228696,0,5,5,1
+n385,Cellular Solids Part 2: Applications in Medicine,Engineering,11/18/2015,Closed,Intermediate,MIT,MIT,0.000377,10,0.004606816,0.280593773,0,3,3,1
+n679,Alien Worlds: The Science of Exoplanet Discovery and Characterization,Science,04/24/2015,Closed,Introductory,BU,BU,0.000694,8,0.008639113,0.291682349,0,16,7,1
+n76,How to Write a Novel ? Part 2: Writing the Draft,Literature,07/16/2015,201~300,Introductory,UBC,UBC,0.00069,1,0.019204354,0.320910973,0,15,9,1
+n763,The Evolving Universe,Science,03/27/2014,Free,Introductory,Caltech,Others,0.000694,8,0.008639113,0.291682349,0,15,7,1
+n460,Introduction to Astrophysics,Math,12/17/2015,Closed,Introductory,EPFL,EPFL,0.000555,8,0.005324933,0.286400591,0,5,5,1
+n637,A System View of Communications: From Signals to Packets (Part 1),Computer Science,03/18/2015,Closed,Introductory,HKUST,HKUST,0.001146223,11,0.114175322,0.367124586,0,26,22,1
+n370,Birds 101: Introduction to Pet Birds,Biology & Life Sciences,03/15/2016,1~50,Advanced,UTennessee,Others,0.000318,10,0.002893854,0.258161226,0,2,2,1
+n696,Greeks at War: Homer at Troy,Humanities,10/27/2014,Closed,Introductory,Colgate,Others,0.00064,14,0.005409237,0.280086737,0,6,6,1
+n416,Introduction to Steel,Engineering,03/23/2016,1~50,Intermediate,TenarisUniversity,Others,0.000247,0,0.003323598,0.261118598,0,1,1,0
+n232,Preparing for the AP* Statistics Exam,Math,08/28/2014,1~50,Introductory,Tennessee Board of Regents,Others,0.000377,7,0.030043777,0.323861262,0,4,4,1
+n9,Introduction to MongoDB using the MEAN Stack,Computer Science,10/23/2015,51~100,Intermediate,MongoDB,Others,0.000627,9,0.015206226,0.304518664,0,8,8,1
+n59,Introduction to TypeScript,Computer Science,03/17/2016,51~100,Intermediate,Microsoft,Microsoft,0.000329,9,0.002658412,0.267149259,0,2,2,1
+n720,Incarceration's Witnesses: American Prison Writing,Humanities,10/27/2014,Free,Intermediate,Hamilton,Others,0.000643,14,0.011591542,0.304279545,0,7,7,1
+n35,Geoscience: the Earth and its Resources,Energy & Earth Sciences,12/11/2015,1~50,Introductory,Delft,Delft,0.000467,5,0.013776029,0.311871227,0,5,5,1
+n709,"The Divine Comedy: Dante's Journey to Freedom, Part 2 (Purgatorio)",Humanities,08/12/2014,Closed,Intermediate,Georgetown,Georgetown,0.000417,14,0.000966687,0.234068257,0,9,2,1
+n354,Introduction to Biomedical Imaging,Biology & Life Sciences,03/07/2016,51~100,Intermediate,UQ,UQ,0.001577951,0,0.358094506,0.377496347,0,35,35,1
+n77,Shakespeare on the Page and in Performance: Tragic Love,Literature,03/24/2016,1~50,Introductory,Wellesley,Wellesley,0.00041,9,0.004422553,0.276292335,0,6,3,1
+n51,"Visualizing Postwar Tokyo, Part 1",Social Sciences,04/21/2016,1~50,Introductory,UTokyo,Others,0.000333,5,0.002886704,0.267795439,0,3,2,1
+n136,A Study in Scarlet by Doyle: BerkeleyX Book Club,Humanities,11/10/2015,Closed,Introductory,UC Berkeley,UC Berkeley,0.000193,3,0,0,0,0,0,0
+n289,Nutrition and Health Part 2: Micronutrients and Malnutrition,Food & Nutrition,02/02/2016,1~50,Introductory,Wageningen,Wageningen,0.001577951,0,0.358094506,0.377496347,0,38,35,1
+n197,Nutrition and Health Part 1: Macronutrients and Overnutrition,Food & Nutrition,05/14/2015,Closed,Introductory,Wageningen,Wageningen,0.001577951,0,0.358094506,0.377496347,0,38,35,1

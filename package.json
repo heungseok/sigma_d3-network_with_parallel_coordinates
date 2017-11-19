@@ -1,0 +1,22 @@
+{
+  "name": "sigma_d3-network_with_parallel_coordinates",
+  "version": "1.0.0",
+  "description": "sigma.js network visualization synced with parallel\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dd3 \u001b[2~pa\u001b[2~rallel coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heungseok/sigma_d3-network_with_parallel_coordinates.git"
+  },
+  "author": "Heungseok Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heungseok/sigma_d3-network_with_parallel_coordinates/issues"
+  },
+  "homepage": "https://github.com/heungseok/sigma_d3-network_with_parallel_coordinates#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

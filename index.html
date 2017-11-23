@@ -23,9 +23,9 @@
   <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
   <link rel="stylesheet" media="screen and (max-height: 770px)" href="css/tablet.css" />
 
-  <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css"/>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+  <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet" type="text/css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 
 
 <style>
@@ -83,10 +83,10 @@ text {
 
 
 <link rel="stylesheet" type="text/css" href="js/parcoords/d3.parcoords.css">
-<script src="js/parcoords/lib/d3.min.js"></script>
-<script src="js/parcoords/lib/d3.js"></script>
-<!--<script src="http://d3js.org/d3.v3.min.js"></script>-->
-<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<!--<script src="js/parcoords/lib/d3.min.js"></script>-->
+<!--<script src="js/parcoords/lib/d3.js"></script>-->
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script src="js/parcoords/lib/d3.svg.multibrush.js"></script>
 
 <script src="js/parcoords/lib/sylvester.js"></script>
@@ -157,15 +157,14 @@ var global_data;
         .color(color)
         .alpha(0.25)
         .composite("darker")
-        .margin({top:24, left: 150, bottom: 12, right: 0})  // margin값 절대 바꾸지말것...  바꾸면 bundling 안됨.
+        .margin({top:24, left: 150, bottom: 12, right: 0})
         .mode("queue")
         .render()
         .brushMode("1D-axes")//2D-strums
         .interactive()
         .reorderable();
 
-        // WARINING!! Changing value of margin is serious problem.. plz be careful... by Heungseok Park
-        // margin값에 대해 너무 큰 이동 떄문에 bundling할 때의 위치 계산이 힘든 부분이 있는 듯 하다.
+        // WARINING!! Changing value of margin is serious problem..
         
 
 
